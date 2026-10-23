@@ -4,27 +4,27 @@
     {
       "id": "401909848",
       "start": "2026-10-23T20:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "10/23 - 4:00 PM EDT",
-      "period": 0,
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
       "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIL",
         "name": "Bucks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-        "score": 0,
+        "score": 125,
         "winner": false,
-        "rec": "0-1"
+        "rec": "0-2"
       },
       "away": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 0,
-        "winner": false,
-        "rec": "0-1"
+        "score": 132,
+        "winner": true,
+        "rec": "1-1"
       },
       "seasonType": 2
     },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-23T19:57:36Z"
+  "updatedAt": "2026-10-23T23:10:16Z"
 }
