@@ -78,6 +78,7 @@ def parse_standings(raw: dict, colors: dict) -> list:
             c = colors.get(t["abbreviation"], {})
             teams.append(
                 {
+                    "id": t.get("id", ""),
                     "abbr": t["abbreviation"],
                     "name": t["displayName"],
                     "short": t.get("shortDisplayName", t["displayName"]),
