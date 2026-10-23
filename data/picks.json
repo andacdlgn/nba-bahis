@@ -1,0 +1,195 @@
+{
+  "oyuncular": [
+    {
+      "id": "andac",
+      "ad": "Andaç"
+    },
+    {
+      "id": "mustafa",
+      "ad": "Mustafa"
+    }
+  ],
+  "not": "Her takım için barem ve seçimler 'ust' ya da 'alt'. Kaynak: BetMGM sezon galibiyet baremleri.",
+  "secimler": {
+    "ATL": {
+      "takim": "Atlanta Hawks",
+      "barem": 43.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "BKN": {
+      "takim": "Brooklyn Nets",
+      "barem": 24.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "BOS": {
+      "takim": "Boston Celtics",
+      "barem": 51.5,
+      "andac": "ust",
+      "mustafa": "alt"
+    },
+    "CHA": {
+      "takim": "Charlotte Hornets",
+      "barem": 38.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "CHI": {
+      "takim": "Chicago Bulls",
+      "barem": 29.5,
+      "andac": "alt",
+      "mustafa": "ust"
+    },
+    "CLE": {
+      "takim": "Cleveland Cavaliers",
+      "barem": 48.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "DAL": {
+      "takim": "Dallas Mavericks",
+      "barem": 34.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "DEN": {
+      "takim": "Denver Nuggets",
+      "barem": 49.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "DET": {
+      "takim": "Detroit Pistons",
+      "barem": 49.5,
+      "andac": "alt",
+      "mustafa": "ust"
+    },
+    "GS": {
+      "takim": "Golden State Warriors",
+      "barem": 36.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "HOU": {
+      "takim": "Houston Rockets",
+      "barem": 48.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "IND": {
+      "takim": "Indiana Pacers",
+      "barem": 44.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "LAC": {
+      "takim": "LA Clippers",
+      "barem": 28.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "LAL": {
+      "takim": "Los Angeles Lakers",
+      "barem": 46.5,
+      "andac": "alt",
+      "mustafa": "ust"
+    },
+    "MEM": {
+      "takim": "Memphis Grizzlies",
+      "barem": 29.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "MIA": {
+      "takim": "Miami Heat",
+      "barem": 46.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "MIL": {
+      "takim": "Milwaukee Bucks",
+      "barem": 25.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "MIN": {
+      "takim": "Minnesota Timberwolves",
+      "barem": 48.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "NO": {
+      "takim": "New Orleans Pelicans",
+      "barem": 28.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "NY": {
+      "takim": "New York Knicks",
+      "barem": 52.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "OKC": {
+      "takim": "Oklahoma City Thunder",
+      "barem": 62.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "ORL": {
+      "takim": "Orlando Magic",
+      "barem": 43.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "PHI": {
+      "takim": "Philadelphia 76ers",
+      "barem": 49.5,
+      "andac": "alt",
+      "mustafa": "ust"
+    },
+    "PHX": {
+      "takim": "Phoenix Suns",
+      "barem": 40.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "POR": {
+      "takim": "Portland Trail Blazers",
+      "barem": 41.5,
+      "andac": "alt",
+      "mustafa": "ust"
+    },
+    "SA": {
+      "takim": "San Antonio Spurs",
+      "barem": 59.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "SAC": {
+      "takim": "Sacramento Kings",
+      "barem": 21.5,
+      "andac": "ust",
+      "mustafa": "ust"
+    },
+    "TOR": {
+      "takim": "Toronto Raptors",
+      "barem": 46.5,
+      "andac": "alt",
+      "mustafa": "ust"
+    },
+    "UTAH": {
+      "takim": "Utah Jazz",
+      "barem": 37.5,
+      "andac": "alt",
+      "mustafa": "alt"
+    },
+    "WSH": {
+      "takim": "Washington Wizards",
+      "barem": 34.5,
+      "andac": "ust",
+      "mustafa": "alt"
+    }
+  }
+}

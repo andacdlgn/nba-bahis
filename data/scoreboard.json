@@ -1,0 +1,60 @@
+{
+  "day": "20261022",
+  "games": [
+    {
+      "id": "401909093",
+      "start": "2026-10-22T23:00Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
+      "home": {
+        "abbr": "PHI",
+        "name": "76ers",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+        "score": 114,
+        "winner": true,
+        "rec": "2-0"
+      },
+      "away": {
+        "abbr": "CLE",
+        "name": "Cavaliers",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+        "score": 106,
+        "winner": false,
+        "rec": "0-1"
+      },
+      "seasonType": 2
+    },
+    {
+      "id": "401909094",
+      "start": "2026-10-23T01:30Z",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
+      "home": {
+        "abbr": "OKC",
+        "name": "Thunder",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+        "score": 96,
+        "winner": true,
+        "rec": "2-0"
+      },
+      "away": {
+        "abbr": "DEN",
+        "name": "Nuggets",
+        "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+        "score": 84,
+        "winner": false,
+        "rec": "0-1"
+      },
+      "seasonType": 2
+    }
+  ],
+  "updatedAt": "2026-10-23T08:19:20Z"
+}

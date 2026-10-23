@@ -1,0 +1,40 @@
+name: Puan durumunu güncelle
+
+on:
+  schedule:
+    # Her 2 saatte bir (UTC). Site canlı veriyi zaten doğrudan okur; bu görev
+    # yedek puan durumunu ve günlük geçmiş kaydını (Hareketler sekmesi) tutar.
+    - cron: "17 */2 * * *"
+  workflow_dispatch: {}   # Actions sekmesinden elle de çalıştırılabilir
+
+permissions:
+  contents: write
+
+concurrency:
+  group: standings
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ESPN'den puan durumunu çek
+        run: python scripts/update_standings.py
+
+      - name: Değiştiyse kaydet
+        run: |
+          if git diff --quiet -- data/; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Puan durumu güncellendi"
+          git push

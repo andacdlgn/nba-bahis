@@ -1,0 +1,33 @@
+name: Canlı mod (maç saatleri)
+
+on:
+  schedule:
+    # Akşam maçları: 22:50 UTC = 01:50 Türkiye saati. Maçlar bitince kendiliğinden durur.
+    - cron: "50 22 * * *"
+    # Hafta sonu gündüz maçları için (16:50 UTC = 19:50 TR)
+    - cron: "50 16 * * 0,6"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: standings
+  cancel-in-progress: false
+
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Skorları maçlar bitene kadar takip et
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/live_loop.py
