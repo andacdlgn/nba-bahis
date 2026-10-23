@@ -4,6 +4,7 @@
   "gamesPerSeason": 82,
   "teams": [
     {
+      "id": "1",
       "abbr": "ATL",
       "name": "Atlanta Hawks",
       "short": "Hawks",
@@ -22,6 +23,7 @@
       "road": "1-0"
     },
     {
+      "id": "17",
       "abbr": "BKN",
       "name": "Brooklyn Nets",
       "short": "Nets",
@@ -40,6 +42,7 @@
       "road": "0-0"
     },
     {
+      "id": "2",
       "abbr": "BOS",
       "name": "Boston Celtics",
       "short": "Celtics",
@@ -58,6 +61,7 @@
       "road": "0-1"
     },
     {
+      "id": "30",
       "abbr": "CHA",
       "name": "Charlotte Hornets",
       "short": "Hornets",
@@ -76,6 +80,7 @@
       "road": "1-0"
     },
     {
+      "id": "4",
       "abbr": "CHI",
       "name": "Chicago Bulls",
       "short": "Bulls",
@@ -94,6 +99,7 @@
       "road": "0-1"
     },
     {
+      "id": "5",
       "abbr": "CLE",
       "name": "Cleveland Cavaliers",
       "short": "Cavaliers",
@@ -112,6 +118,7 @@
       "road": "0-1"
     },
     {
+      "id": "6",
       "abbr": "DAL",
       "name": "Dallas Mavericks",
       "short": "Mavericks",
@@ -130,6 +137,7 @@
       "road": "0-1"
     },
     {
+      "id": "7",
       "abbr": "DEN",
       "name": "Denver Nuggets",
       "short": "Nuggets",
@@ -148,6 +156,7 @@
       "road": "0-1"
     },
     {
+      "id": "8",
       "abbr": "DET",
       "name": "Detroit Pistons",
       "short": "Pistons",
@@ -166,6 +175,7 @@
       "road": "0-0"
     },
     {
+      "id": "9",
       "abbr": "GS",
       "name": "Golden State Warriors",
       "short": "Warriors",
@@ -184,6 +194,7 @@
       "road": "0-1"
     },
     {
+      "id": "10",
       "abbr": "HOU",
       "name": "Houston Rockets",
       "short": "Rockets",
@@ -202,6 +213,7 @@
       "road": "0-0"
     },
     {
+      "id": "11",
       "abbr": "IND",
       "name": "Indiana Pacers",
       "short": "Pacers",
@@ -220,6 +232,7 @@
       "road": "1-0"
     },
     {
+      "id": "12",
       "abbr": "LAC",
       "name": "LA Clippers",
       "short": "Clippers",
@@ -238,6 +251,7 @@
       "road": "0-0"
     },
     {
+      "id": "13",
       "abbr": "LAL",
       "name": "Los Angeles Lakers",
       "short": "Lakers",
@@ -256,6 +270,7 @@
       "road": "0-0"
     },
     {
+      "id": "29",
       "abbr": "MEM",
       "name": "Memphis Grizzlies",
       "short": "Grizzlies",
@@ -274,6 +289,7 @@
       "road": "0-0"
     },
     {
+      "id": "14",
       "abbr": "MIA",
       "name": "Miami Heat",
       "short": "Heat",
@@ -292,6 +308,7 @@
       "road": "0-0"
     },
     {
+      "id": "15",
       "abbr": "MIL",
       "name": "Milwaukee Bucks",
       "short": "Bucks",
@@ -310,6 +327,7 @@
       "road": "0-1"
     },
     {
+      "id": "16",
       "abbr": "MIN",
       "name": "Minnesota Timberwolves",
       "short": "Timberwolves",
@@ -328,6 +346,7 @@
       "road": "1-0"
     },
     {
+      "id": "3",
       "abbr": "NO",
       "name": "New Orleans Pelicans",
       "short": "Pelicans",
@@ -346,6 +365,7 @@
       "road": "0-0"
     },
     {
+      "id": "18",
       "abbr": "NY",
       "name": "New York Knicks",
       "short": "Knicks",
@@ -364,6 +384,7 @@
       "road": "0-0"
     },
     {
+      "id": "25",
       "abbr": "OKC",
       "name": "Oklahoma City Thunder",
       "short": "Thunder",
@@ -382,6 +403,7 @@
       "road": "1-0"
     },
     {
+      "id": "19",
       "abbr": "ORL",
       "name": "Orlando Magic",
       "short": "Magic",
@@ -400,6 +422,7 @@
       "road": "0-0"
     },
     {
+      "id": "20",
       "abbr": "PHI",
       "name": "Philadelphia 76ers",
       "short": "76ers",
@@ -418,6 +441,7 @@
       "road": "1-0"
     },
     {
+      "id": "21",
       "abbr": "PHX",
       "name": "Phoenix Suns",
       "short": "Suns",
@@ -436,6 +460,7 @@
       "road": "0-1"
     },
     {
+      "id": "22",
       "abbr": "POR",
       "name": "Portland Trail Blazers",
       "short": "Trail Blazers",
@@ -454,6 +479,7 @@
       "road": "0-0"
     },
     {
+      "id": "24",
       "abbr": "SA",
       "name": "San Antonio Spurs",
       "short": "Spurs",
@@ -472,6 +498,7 @@
       "road": "0-0"
     },
     {
+      "id": "23",
       "abbr": "SAC",
       "name": "Sacramento Kings",
       "short": "Kings",
@@ -490,6 +517,7 @@
       "road": "0-1"
     },
     {
+      "id": "28",
       "abbr": "TOR",
       "name": "Toronto Raptors",
       "short": "Raptors",
@@ -508,6 +536,7 @@
       "road": "0-0"
     },
     {
+      "id": "26",
       "abbr": "UTAH",
       "name": "Utah Jazz",
       "short": "Jazz",
@@ -526,6 +555,7 @@
       "road": "0-1"
     },
     {
+      "id": "27",
       "abbr": "WSH",
       "name": "Washington Wizards",
       "short": "Wizards",
@@ -544,5 +574,5 @@
       "road": "0-0"
     }
   ],
-  "updatedAt": "2026-10-23T08:11:37Z"
+  "updatedAt": "2026-10-23T15:06:16Z"
 }
