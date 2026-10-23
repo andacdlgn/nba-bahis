@@ -328,7 +328,8 @@ footer{color:var(--muted);font-size:12px;text-align:center;margin:28px 0 8px}
 <script>
 "use strict";
 const $ = s => document.querySelector(s);
-const ESPN = "https://site.api.espn.com/apis";
+// site.api.espn.com tarayıcı isteklerini engelliyor; aynı veri site.web.api.espn.com üzerinden açık.
+const ESPN = "https://site.web.api.espn.com/apis";
 const TZ = "Europe/Istanbul";
 
 const DIVISIONS = {
@@ -531,10 +532,14 @@ async function loadLiveStandings(){
     }catch(e2){ /* elde olanla devam */ }
   }
 }
+// ESPN'in "bugün"ü: ABD Doğu saatine göre, gece maçları bitene kadar (06:00) önceki gün sayılır
+function espnToday(){
+  return new Date(Date.now()-6*36e5).toLocaleDateString("sv-SE",{timeZone:"America/New_York"}).replaceAll("-","");
+}
 async function loadGames(day){
-  const url=`${ESPN}/site/v2/sports/basketball/nba/scoreboard${day?`?dates=${day}`:""}`;
-  const raw=await getJSON(url);
-  return { day: (raw.day?.date||"").replaceAll("-","") || day, games: parseGames(raw) };
+  day = day || espnToday();
+  const raw=await getJSON(`${ESPN}/site/v2/sports/basketball/nba/scoreboard?dates=${day}`);
+  return { day, games: parseGames(raw) };
 }
 async function loadToday(){
   let r=null;
