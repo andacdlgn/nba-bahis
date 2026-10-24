@@ -37,4 +37,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/
           git commit -m "Puan durumu güncellendi"
+          git pull --rebase -X theirs origin main
           git push
