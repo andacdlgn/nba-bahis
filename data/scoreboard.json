@@ -33,15 +33,15 @@
       "start": "2026-10-23T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:33 - 4th",
+      "detail": "1:41 - 4th",
       "period": 4,
-      "clock": "4:33",
+      "clock": "1:41",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 94,
+        "score": 99,
         "winner": false,
         "rec": "0-1"
       },
@@ -49,7 +49,7 @@
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 89,
+        "score": 98,
         "winner": false,
         "rec": "0-1"
       },
@@ -87,15 +87,15 @@
       "start": "2026-10-23T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:31 - 4th",
+      "detail": "4:23 - 4th",
       "period": 4,
-      "clock": "5:31",
+      "clock": "4:23",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 92,
+        "score": 99,
         "winner": false,
         "rec": "1-0"
       },
@@ -112,27 +112,27 @@
     {
       "id": "401909845",
       "start": "2026-10-23T23:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:47 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:47",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 92,
+        "score": 93,
         "winner": false,
-        "rec": "0-1"
+        "rec": "0-2"
       },
       "away": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 112,
-        "winner": false,
-        "rec": "1-0"
+        "score": 115,
+        "winner": true,
+        "rec": "2-0"
       },
       "seasonType": 2
     },
@@ -141,15 +141,15 @@
       "start": "2026-10-23T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:15 - 4th",
+      "detail": "58.5 - 4th",
       "period": 4,
-      "clock": "3:15",
+      "clock": "58.5",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 97,
+        "score": 99,
         "winner": false,
         "rec": "1-0"
       },
@@ -157,7 +157,7 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 105,
+        "score": 112,
         "winner": false,
         "rec": "1-0"
       },
@@ -168,9 +168,9 @@
       "start": "2026-10-24T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:03 - 3rd",
+      "detail": "9:19 - 3rd",
       "period": 3,
-      "clock": "10:03",
+      "clock": "9:19",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
@@ -184,7 +184,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 73,
+        "score": 78,
         "winner": false,
         "rec": "1-0"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T01:32:11Z"
+  "updatedAt": "2026-10-24T01:36:12Z"
 }
