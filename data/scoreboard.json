@@ -4,17 +4,17 @@
     {
       "id": "401909853",
       "start": "2026-10-24T22:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "10/24 - 6:00 PM EDT",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "4:24 - 1st",
+      "period": 1,
+      "clock": "4:24",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHA",
         "name": "Hornets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "score": 0,
+        "score": 18,
         "winner": false,
         "rec": "1-1"
       },
@@ -22,7 +22,7 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 0,
+        "score": 22,
         "winner": false,
         "rec": "0-2"
       },
@@ -218,5 +218,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T15:58:25Z"
+  "updatedAt": "2026-10-24T22:29:37Z"
 }
