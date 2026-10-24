@@ -249,15 +249,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:44 - 4th",
+      "detail": "2:14 - 4th",
       "period": 4,
-      "clock": "4:44",
+      "clock": "2:14",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 103,
+        "score": 106,
         "winner": false,
         "rec": "0-1"
       },
@@ -265,7 +265,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 92,
+        "score": 98,
         "winner": false,
         "rec": "1-0"
       },
@@ -301,30 +301,30 @@
     {
       "id": "401909852",
       "start": "2026-10-24T02:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "End of 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
       "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
         "score": 120,
         "winner": false,
-        "rec": "0-1"
+        "rec": "0-2"
       },
       "away": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
         "score": 128,
-        "winner": false,
-        "rec": "1-0"
+        "winner": true,
+        "rec": "2-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T04:37:15Z"
+  "updatedAt": "2026-10-24T04:41:17Z"
 }
