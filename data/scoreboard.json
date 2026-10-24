@@ -247,27 +247,27 @@
     {
       "id": "401909850",
       "start": "2026-10-24T02:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "0.0 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
       "clock": "0.0",
-      "typeName": "STATUS_IN_PROGRESS",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
         "score": 108,
         "winner": false,
-        "rec": "0-1"
+        "rec": "0-2"
       },
       "away": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
         "score": 111,
-        "winner": false,
-        "rec": "1-0"
+        "winner": true,
+        "rec": "2-0"
       },
       "seasonType": 2
     },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T04:53:20Z"
+  "updatedAt": "2026-10-24T04:57:22Z"
 }
