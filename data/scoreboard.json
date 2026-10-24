@@ -193,12 +193,12 @@
     {
       "id": "401909096",
       "start": "2026-10-24T01:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "3.1 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "3.1",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
@@ -211,8 +211,8 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 112,
-        "winner": false,
+        "score": 114,
+        "winner": true,
         "rec": "1-0"
       },
       "seasonType": 2
@@ -249,9 +249,9 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "27.4 - 3rd",
-      "period": 3,
-      "clock": "27.4",
+      "detail": "11:36 - 4th",
+      "period": 4,
+      "clock": "11:36",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
@@ -265,7 +265,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 84,
+        "score": 86,
         "winner": false,
         "rec": "1-0"
       },
@@ -276,15 +276,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:26 - 4th",
+      "detail": "4:47 - 4th",
       "period": 4,
-      "clock": "6:26",
+      "clock": "4:47",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 115,
+        "score": 119,
         "winner": false,
         "rec": "1-0"
       },
@@ -292,7 +292,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 104,
+        "score": 106,
         "winner": false,
         "rec": "1-0"
       },
@@ -303,15 +303,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:51 - 4th",
+      "detail": "3:52 - 4th",
       "period": 4,
-      "clock": "4:51",
+      "clock": "3:52",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 113,
+        "score": 114,
         "winner": false,
         "rec": "0-1"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T04:17:08Z"
+  "updatedAt": "2026-10-24T04:21:09Z"
 }
