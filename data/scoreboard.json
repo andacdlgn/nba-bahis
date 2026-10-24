@@ -205,7 +205,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
         "score": 110,
         "winner": false,
-        "rec": "0-1"
+        "rec": "0-2"
       },
       "away": {
         "abbr": "HOU",
@@ -213,7 +213,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
         "score": 114,
         "winner": true,
-        "rec": "1-0"
+        "rec": "2-0"
       },
       "seasonType": 2
     },
@@ -249,15 +249,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "11:36 - 4th",
+      "detail": "8:40 - 4th",
       "period": 4,
-      "clock": "11:36",
+      "clock": "8:40",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 90,
+        "score": 95,
         "winner": false,
         "rec": "0-1"
       },
@@ -276,9 +276,9 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:47 - 4th",
+      "detail": "3:43 - 4th",
       "period": 4,
-      "clock": "4:47",
+      "clock": "3:43",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
@@ -292,7 +292,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 106,
+        "score": 109,
         "winner": false,
         "rec": "1-0"
       },
@@ -303,15 +303,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:52 - 4th",
+      "detail": "1:52 - 4th",
       "period": 4,
-      "clock": "3:52",
+      "clock": "1:52",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 114,
+        "score": 117,
         "winner": false,
         "rec": "0-1"
       },
@@ -319,12 +319,12 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 118,
+        "score": 123,
         "winner": false,
         "rec": "1-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T04:21:09Z"
+  "updatedAt": "2026-10-24T04:25:11Z"
 }
