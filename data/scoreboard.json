@@ -195,9 +195,9 @@
       "start": "2026-10-24T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:16 - 3rd",
+      "detail": "5:15 - 3rd",
       "period": 3,
-      "clock": "5:16",
+      "clock": "5:15",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
@@ -222,15 +222,15 @@
       "start": "2026-10-24T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "2:44 - 3rd",
+      "detail": "1:03 - 3rd",
       "period": 3,
-      "clock": "2:44",
+      "clock": "1:03",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 80,
+        "score": 82,
         "winner": false,
         "rec": "0-1"
       },
@@ -238,7 +238,7 @@
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 83,
+        "score": 86,
         "winner": false,
         "rec": "0-1"
       },
@@ -249,15 +249,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:17 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "1:17",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 54,
+        "score": 56,
         "winner": false,
         "rec": "0-1"
       },
@@ -265,7 +265,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 57,
+        "score": 60,
         "winner": false,
         "rec": "1-0"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T03:20:48Z"
+  "updatedAt": "2026-10-24T03:24:50Z"
 }
