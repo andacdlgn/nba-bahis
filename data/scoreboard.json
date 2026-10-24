@@ -249,9 +249,9 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:40 - 4th",
+      "detail": "7:35 - 4th",
       "period": 4,
-      "clock": "8:40",
+      "clock": "7:35",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
@@ -265,7 +265,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 86,
+        "score": 89,
         "winner": false,
         "rec": "1-0"
       },
@@ -276,15 +276,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:43 - 4th",
+      "detail": "1:55 - 4th",
       "period": 4,
-      "clock": "3:43",
+      "clock": "1:55",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 119,
+        "score": 121,
         "winner": false,
         "rec": "1-0"
       },
@@ -292,7 +292,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 109,
+        "score": 113,
         "winner": false,
         "rec": "1-0"
       },
@@ -303,15 +303,15 @@
       "start": "2026-10-24T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:52 - 4th",
+      "detail": "30.1 - 4th",
       "period": 4,
-      "clock": "1:52",
+      "clock": "30.1",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 117,
+        "score": 119,
         "winner": false,
         "rec": "0-1"
       },
@@ -319,12 +319,12 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 123,
+        "score": 126,
         "winner": false,
         "rec": "1-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-24T04:25:11Z"
+  "updatedAt": "2026-10-24T04:29:12Z"
 }
