@@ -116,7 +116,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "12:00",
+      "clock": "0.0",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DAL",
@@ -218,5 +218,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-25T04:33:36Z"
+  "updatedAt": "2026-10-25T04:43:48Z"
 }
