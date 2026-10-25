@@ -168,10 +168,10 @@
       "start": "2026-10-25T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "16.8 - 4th",
+      "detail": "End of 4th",
       "period": 4,
-      "clock": "16.8",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
@@ -195,15 +195,15 @@
       "start": "2026-10-25T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 3rd",
+      "detail": "9:30 - 3rd",
       "period": 3,
-      "clock": "0.0",
+      "clock": "9:30",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 59,
+        "score": 65,
         "winner": false,
         "rec": "0-1"
       },
@@ -211,12 +211,12 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 57,
+        "score": 61,
         "winner": false,
         "rec": "0-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-25T03:33:07Z"
+  "updatedAt": "2026-10-25T03:37:09Z"
 }
