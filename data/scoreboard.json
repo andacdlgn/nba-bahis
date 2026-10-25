@@ -195,15 +195,15 @@
       "start": "2026-10-25T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "11:18 - 4th",
+      "detail": "9:12 - 4th",
       "period": 4,
-      "clock": "11:18",
+      "clock": "9:12",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 104,
+        "score": 106,
         "winner": false,
         "rec": "0-1"
       },
@@ -211,12 +211,12 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 92,
+        "score": 96,
         "winner": false,
         "rec": "0-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-25T04:05:22Z"
+  "updatedAt": "2026-10-25T04:09:24Z"
 }
