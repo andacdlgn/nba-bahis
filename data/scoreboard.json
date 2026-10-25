@@ -116,7 +116,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DAL",
@@ -193,30 +193,30 @@
     {
       "id": "401909860",
       "start": "2026-10-25T02:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:33 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:33",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 129,
-        "winner": false,
-        "rec": "0-1"
+        "score": 131,
+        "winner": true,
+        "rec": "1-1"
       },
       "away": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 119,
+        "score": 122,
         "winner": false,
-        "rec": "0-2"
+        "rec": "0-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-25T04:29:34Z"
+  "updatedAt": "2026-10-25T04:33:36Z"
 }
