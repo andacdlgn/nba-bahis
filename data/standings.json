@@ -109,7 +109,7 @@
       "altColor": "#bc945c",
       "wins": 1,
       "losses": 1,
-      "seed": 7,
+      "seed": 9,
       "gb": "1.5",
       "pct": 0.5,
       "streak": "W1",
@@ -223,7 +223,7 @@
       "altColor": "#ffd520",
       "wins": 1,
       "losses": 1,
-      "seed": 7,
+      "seed": 8,
       "gb": "1.5",
       "pct": 0.5,
       "streak": "L1",
@@ -574,5 +574,5 @@
       "road": "1-0"
     }
   ],
-  "updatedAt": "2026-10-25T04:43:48Z"
+  "updatedAt": "2026-10-25T11:32:43Z"
 }
