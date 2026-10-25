@@ -89,7 +89,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "CHI",
@@ -195,15 +195,15 @@
       "start": "2026-10-25T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:07 - 4th",
+      "detail": "3:42 - 4th",
       "period": 4,
-      "clock": "6:07",
+      "clock": "3:42",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 117,
+        "score": 124,
         "winner": false,
         "rec": "0-1"
       },
@@ -211,12 +211,12 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 102,
+        "score": 114,
         "winner": false,
         "rec": "0-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-25T04:21:30Z"
+  "updatedAt": "2026-10-25T04:25:32Z"
 }
