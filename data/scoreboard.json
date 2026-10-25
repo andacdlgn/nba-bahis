@@ -33,9 +33,9 @@
       "start": "2026-10-24T23:30Z",
       "state": "in",
       "completed": false,
-      "detail": "9:10 - 3rd",
+      "detail": "8:27 - 3rd",
       "period": 3,
-      "clock": "9:10",
+      "clock": "8:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
@@ -49,7 +49,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 56,
+        "score": 59,
         "winner": false,
         "rec": "0-1"
       },
@@ -60,15 +60,15 @@
       "start": "2026-10-24T23:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:24 - 3rd",
+      "detail": "3:23 - 3rd",
       "period": 3,
-      "clock": "5:24",
+      "clock": "3:23",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 82,
+        "score": 84,
         "winner": false,
         "rec": "2-0"
       },
@@ -76,7 +76,7 @@
         "abbr": "MIL",
         "name": "Bucks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-        "score": 75,
+        "score": 82,
         "winner": false,
         "rec": "0-2"
       },
@@ -87,10 +87,10 @@
       "start": "2026-10-25T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "53.1 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "53.1",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
@@ -103,7 +103,7 @@
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 52,
+        "score": 57,
         "winner": false,
         "rec": "1-1"
       },
@@ -114,15 +114,15 @@
       "start": "2026-10-25T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:18 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "1:18",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 57,
+        "score": 60,
         "winner": false,
         "rec": "1-1"
       },
@@ -130,7 +130,7 @@
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 61,
+        "score": 68,
         "winner": false,
         "rec": "0-2"
       },
@@ -141,15 +141,15 @@
       "start": "2026-10-25T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 1st",
-      "period": 1,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "9:57 - 2nd",
+      "period": 2,
+      "clock": "9:57",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 26,
+        "score": 29,
         "winner": false,
         "rec": "2-0"
       },
@@ -157,7 +157,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 30,
+        "score": 32,
         "winner": false,
         "rec": "2-0"
       },
@@ -166,17 +166,17 @@
     {
       "id": "401909859",
       "start": "2026-10-25T01:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "10/24 - 9:00 PM EDT",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "10:15 - 1st",
+      "period": 1,
+      "clock": "10:15",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 0,
+        "score": 5,
         "winner": false,
         "rec": "0-1"
       },
@@ -184,7 +184,7 @@
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 0,
+        "score": 2,
         "winner": false,
         "rec": "0-2"
       },
@@ -218,5 +218,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-25T01:11:58Z"
+  "updatedAt": "2026-10-25T01:16:00Z"
 }
