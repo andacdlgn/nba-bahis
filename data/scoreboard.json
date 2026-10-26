@@ -168,15 +168,15 @@
       "start": "2026-10-26T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:36 - 3rd",
+      "detail": "3:46 - 3rd",
       "period": 3,
-      "clock": "4:36",
+      "clock": "3:46",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 80,
+        "score": 82,
         "winner": false,
         "rec": "0-2"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T02:42:56Z"
+  "updatedAt": "2026-10-26T02:46:58Z"
 }
