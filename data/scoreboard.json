@@ -141,15 +141,15 @@
       "start": "2026-10-25T23:30Z",
       "state": "in",
       "completed": false,
-      "detail": "8:50 - 4th",
+      "detail": "6:58 - 4th",
       "period": 4,
-      "clock": "8:50",
+      "clock": "6:58",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 78,
+        "score": 80,
         "winner": false,
         "rec": "3-0"
       },
@@ -157,7 +157,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 82,
+        "score": 88,
         "winner": false,
         "rec": "2-0"
       },
@@ -168,9 +168,9 @@
       "start": "2026-10-26T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 2nd",
+      "detail": "8:04 - 2nd",
       "period": 2,
-      "clock": "0.0",
+      "clock": "8:04",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -184,12 +184,12 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 36,
+        "score": 41,
         "winner": false,
         "rec": "2-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T01:46:33Z"
+  "updatedAt": "2026-10-26T01:50:35Z"
 }
