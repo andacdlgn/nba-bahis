@@ -60,9 +60,9 @@
       "start": "2026-10-25T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "24.8 - 3rd",
-      "period": 3,
-      "clock": "24.8",
+      "detail": "11:17 - 4th",
+      "period": 4,
+      "clock": "11:17",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
@@ -76,7 +76,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 69,
+        "score": 71,
         "winner": false,
         "rec": "0-2"
       },
@@ -87,15 +87,15 @@
       "start": "2026-10-25T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:55 - 3rd",
+      "detail": "3:48 - 3rd",
       "period": 3,
-      "clock": "4:55",
+      "clock": "3:48",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 80,
+        "score": 85,
         "winner": false,
         "rec": "2-0"
       },
@@ -103,7 +103,7 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 57,
+        "score": 59,
         "winner": false,
         "rec": "2-0"
       },
@@ -114,15 +114,15 @@
       "start": "2026-10-25T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:56 - 4th",
+      "detail": "7:22 - 4th",
       "period": 4,
-      "clock": "8:56",
+      "clock": "7:22",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 86,
+        "score": 88,
         "winner": false,
         "rec": "2-0"
       },
@@ -130,7 +130,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 85,
+        "score": 87,
         "winner": false,
         "rec": "1-1"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T00:50:08Z"
+  "updatedAt": "2026-10-26T00:54:09Z"
 }
