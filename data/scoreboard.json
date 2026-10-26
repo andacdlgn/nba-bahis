@@ -170,7 +170,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SAC",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T03:31:18Z"
+  "updatedAt": "2026-10-26T07:49:38Z"
 }
