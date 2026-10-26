@@ -60,9 +60,9 @@
       "start": "2026-10-25T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:35 - 3rd",
+      "detail": "24.8 - 3rd",
       "period": 3,
-      "clock": "1:35",
+      "clock": "24.8",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
@@ -87,15 +87,15 @@
       "start": "2026-10-25T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:52 - 3rd",
+      "detail": "4:55 - 3rd",
       "period": 3,
-      "clock": "6:52",
+      "clock": "4:55",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 73,
+        "score": 80,
         "winner": false,
         "rec": "2-0"
       },
@@ -103,7 +103,7 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 51,
+        "score": 57,
         "winner": false,
         "rec": "2-0"
       },
@@ -114,15 +114,15 @@
       "start": "2026-10-25T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "11:32 - 4th",
+      "detail": "8:56 - 4th",
       "period": 4,
-      "clock": "11:32",
+      "clock": "8:56",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 79,
+        "score": 86,
         "winner": false,
         "rec": "2-0"
       },
@@ -130,7 +130,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 76,
+        "score": 85,
         "winner": false,
         "rec": "1-1"
       },
@@ -141,15 +141,15 @@
       "start": "2026-10-25T23:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:17 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "1:17",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 38,
+        "score": 44,
         "winner": false,
         "rec": "3-0"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T00:46:06Z"
+  "updatedAt": "2026-10-26T00:50:08Z"
 }
