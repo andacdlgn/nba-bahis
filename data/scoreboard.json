@@ -139,27 +139,27 @@
     {
       "id": "401909866",
       "start": "2026-10-25T23:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:03 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:03",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
         "score": 93,
         "winner": false,
-        "rec": "3-0"
+        "rec": "3-1"
       },
       "away": {
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 104,
-        "winner": false,
-        "rec": "2-0"
+        "score": 106,
+        "winner": true,
+        "rec": "3-0"
       },
       "seasonType": 2
     },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T02:10:44Z"
+  "updatedAt": "2026-10-26T02:14:46Z"
 }
