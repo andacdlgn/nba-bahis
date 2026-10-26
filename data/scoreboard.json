@@ -166,30 +166,30 @@
     {
       "id": "401909867",
       "start": "2026-10-26T01:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:26 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:26",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 110,
+        "score": 112,
         "winner": false,
-        "rec": "0-2"
+        "rec": "0-3"
       },
       "away": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 121,
-        "winner": false,
-        "rec": "2-0"
+        "score": 123,
+        "winner": true,
+        "rec": "3-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-26T03:27:17Z"
+  "updatedAt": "2026-10-26T03:31:18Z"
 }
