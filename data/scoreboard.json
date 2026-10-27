@@ -85,27 +85,27 @@
     {
       "id": "401909871",
       "start": "2026-10-26T23:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "10.0 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "10.0",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
         "score": 109,
         "winner": false,
-        "rec": "0-3"
+        "rec": "0-4"
       },
       "away": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
         "score": 113,
-        "winner": false,
-        "rec": "1-2"
+        "winner": true,
+        "rec": "2-2"
       },
       "seasonType": 2
     },
@@ -114,15 +114,15 @@
       "start": "2026-10-27T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:20 - 4th",
+      "detail": "5:25 - 4th",
       "period": 4,
-      "clock": "7:20",
+      "clock": "5:25",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIL",
         "name": "Bucks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-        "score": 94,
+        "score": 101,
         "winner": false,
         "rec": "0-3"
       },
@@ -130,7 +130,7 @@
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 86,
+        "score": 92,
         "winner": false,
         "rec": "2-1"
       },
@@ -141,15 +141,15 @@
       "start": "2026-10-27T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:56 - 4th",
+      "detail": "7:00 - 4th",
       "period": 4,
-      "clock": "7:56",
+      "clock": "7:00",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 109,
+        "score": 112,
         "winner": false,
         "rec": "3-0"
       },
@@ -168,15 +168,15 @@
       "start": "2026-10-27T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:36 - 3rd",
+      "detail": "5:00 - 3rd",
       "period": 3,
-      "clock": "6:36",
+      "clock": "5:00",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 75,
+        "score": 80,
         "winner": false,
         "rec": "3-0"
       },
@@ -184,7 +184,7 @@
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 74,
+        "score": 76,
         "winner": false,
         "rec": "2-1"
       },
@@ -195,15 +195,15 @@
       "start": "2026-10-27T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:54 - 2nd",
+      "detail": "3:53 - 2nd",
       "period": 2,
-      "clock": "5:54",
+      "clock": "3:53",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 38,
+        "score": 42,
         "winner": false,
         "rec": "1-2"
       },
@@ -211,7 +211,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 45,
+        "score": 49,
         "winner": false,
         "rec": "3-0"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T02:02:46Z"
+  "updatedAt": "2026-10-27T02:06:48Z"
 }
