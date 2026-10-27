@@ -195,9 +195,9 @@
       "start": "2026-10-27T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "41.0 - 4th",
+      "detail": "0.0 - 4th",
       "period": 4,
-      "clock": "41.0",
+      "clock": "0.0",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
@@ -211,7 +211,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 107,
+        "score": 110,
         "winner": false,
         "rec": "3-0"
       },
@@ -222,9 +222,9 @@
       "start": "2026-10-27T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:27 - 3rd",
+      "detail": "9:36 - 3rd",
       "period": 3,
-      "clock": "10:27",
+      "clock": "9:36",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
@@ -238,12 +238,12 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 69,
+        "score": 71,
         "winner": false,
         "rec": "0-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T03:27:20Z"
+  "updatedAt": "2026-10-27T03:31:21Z"
 }
