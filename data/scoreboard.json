@@ -222,9 +222,9 @@
       "start": "2026-10-27T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 3rd",
-      "period": 3,
-      "clock": "0.0",
+      "detail": "11:57 - 4th",
+      "period": 4,
+      "clock": "11:57",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T03:55:30Z"
+  "updatedAt": "2026-10-27T03:59:32Z"
 }
