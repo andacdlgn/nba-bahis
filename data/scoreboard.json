@@ -195,15 +195,15 @@
       "start": "2026-10-27T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:55 - 4th",
+      "detail": "6:33 - 4th",
       "period": 4,
-      "clock": "8:55",
+      "clock": "6:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 86,
+        "score": 93,
         "winner": false,
         "rec": "1-2"
       },
@@ -211,7 +211,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 92,
+        "score": 98,
         "winner": false,
         "rec": "3-0"
       },
@@ -222,15 +222,15 @@
       "start": "2026-10-27T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "45.2 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "45.2",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 54,
+        "score": 56,
         "winner": false,
         "rec": "1-1"
       },
@@ -238,12 +238,12 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 59,
+        "score": 60,
         "winner": false,
         "rec": "0-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T03:07:12Z"
+  "updatedAt": "2026-10-27T03:11:13Z"
 }
