@@ -222,15 +222,15 @@
       "start": "2026-10-27T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:57 - 3rd",
+      "detail": "4:39 - 3rd",
       "period": 3,
-      "clock": "5:57",
+      "clock": "4:39",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 70,
+        "score": 72,
         "winner": false,
         "rec": "1-1"
       },
@@ -238,12 +238,12 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 80,
+        "score": 84,
         "winner": false,
         "rec": "0-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T03:39:25Z"
+  "updatedAt": "2026-10-27T03:43:26Z"
 }
