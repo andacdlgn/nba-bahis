@@ -195,15 +195,15 @@
       "start": "2026-10-27T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:38 - 4th",
+      "detail": "3:20 - 4th",
       "period": 4,
-      "clock": "5:38",
+      "clock": "3:20",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 93,
+        "score": 101,
         "winner": false,
         "rec": "1-2"
       },
@@ -211,7 +211,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 98,
+        "score": 102,
         "winner": false,
         "rec": "3-0"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T03:15:15Z"
+  "updatedAt": "2026-10-27T03:19:16Z"
 }
