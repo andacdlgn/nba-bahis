@@ -114,9 +114,9 @@
       "start": "2026-10-27T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "50.5 - 4th",
+      "detail": "20.5 - 4th",
       "period": 4,
-      "clock": "50.5",
+      "clock": "20.5",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIL",
@@ -141,15 +141,15 @@
       "start": "2026-10-27T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:43 - 4th",
+      "detail": "1:01 - 4th",
       "period": 4,
-      "clock": "2:43",
+      "clock": "1:01",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 124,
+        "score": 125,
         "winner": false,
         "rec": "3-0"
       },
@@ -157,7 +157,7 @@
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 107,
+        "score": 114,
         "winner": false,
         "rec": "1-1"
       },
@@ -168,15 +168,15 @@
       "start": "2026-10-27T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "11:34 - 4th",
+      "period": 4,
+      "clock": "11:34",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 91,
+        "score": 93,
         "winner": false,
         "rec": "3-0"
       },
@@ -184,7 +184,7 @@
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 85,
+        "score": 86,
         "winner": false,
         "rec": "2-1"
       },
@@ -222,15 +222,15 @@
       "start": "2026-10-27T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:20 - 1st",
+      "detail": "5:32 - 1st",
       "period": 1,
-      "clock": "6:20",
+      "clock": "5:32",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 12,
+        "score": 16,
         "winner": false,
         "rec": "1-1"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-27T02:22:55Z"
+  "updatedAt": "2026-10-27T02:26:57Z"
 }
