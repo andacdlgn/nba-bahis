@@ -87,15 +87,15 @@
       "start": "2026-10-28T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:15 - 2nd",
+      "detail": "3:59 - 2nd",
       "period": 2,
-      "clock": "4:15",
+      "clock": "3:59",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 54,
+        "score": 57,
         "winner": false,
         "rec": "3-0"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T04:05:48Z"
+  "updatedAt": "2026-10-28T04:09:50Z"
 }
