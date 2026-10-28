@@ -35,7 +35,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "NY",
@@ -87,15 +87,15 @@
       "start": "2026-10-28T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:24 - 2nd",
+      "detail": "7:09 - 2nd",
       "period": 2,
-      "clock": "9:24",
+      "clock": "7:09",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 42,
+        "score": 48,
         "winner": false,
         "rec": "3-0"
       },
@@ -103,12 +103,12 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 42,
+        "score": 47,
         "winner": false,
         "rec": "2-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T03:53:44Z"
+  "updatedAt": "2026-10-28T03:57:46Z"
 }
