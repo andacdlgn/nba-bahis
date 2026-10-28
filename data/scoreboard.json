@@ -89,7 +89,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAL",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T06:02:28Z"
+  "updatedAt": "2026-10-28T08:35:26Z"
 }
