@@ -87,10 +87,10 @@
       "start": "2026-10-28T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 2nd",
+      "detail": "Halftime",
       "period": 2,
       "clock": "0.0",
-      "typeName": "STATUS_IN_PROGRESS",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T04:25:55Z"
+  "updatedAt": "2026-10-28T04:29:57Z"
 }
