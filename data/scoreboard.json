@@ -33,15 +33,15 @@
       "start": "2026-10-28T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:53 - 4th",
+      "detail": "28.7 - 4th",
       "period": 4,
-      "clock": "1:53",
+      "clock": "28.7",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 107,
+        "score": 109,
         "winner": false,
         "rec": "0-3"
       },
@@ -49,7 +49,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 95,
+        "score": 97,
         "winner": false,
         "rec": "3-0"
       },
@@ -62,7 +62,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T02:45:25Z"
+  "updatedAt": "2026-10-28T02:49:27Z"
 }
