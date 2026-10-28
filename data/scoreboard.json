@@ -85,12 +85,12 @@
     {
       "id": "401909880",
       "start": "2026-10-28T03:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "10/27 - 11:00 PM EDT",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "11:38 - 1st",
+      "period": 1,
+      "clock": "11:38",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T02:53:28Z"
+  "updatedAt": "2026-10-28T03:13:30Z"
 }
