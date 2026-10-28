@@ -6,10 +6,10 @@
       "start": "2026-10-27T23:30Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 4th",
-      "period": 4,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "3:47 - OT",
+      "period": 5,
+      "clock": "3:47",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "BOS",
         "name": "Celtics",
@@ -22,7 +22,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 117,
+        "score": 119,
         "winner": false,
         "rec": "0-3"
       },
@@ -33,15 +33,15 @@
       "start": "2026-10-28T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:51 - 3rd",
+      "detail": "7.3 - 3rd",
       "period": 3,
-      "clock": "1:51",
+      "clock": "7.3",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 84,
+        "score": 85,
         "winner": false,
         "rec": "0-3"
       },
@@ -60,15 +60,15 @@
       "start": "2026-10-28T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:01 - 4th",
+      "detail": "5:27 - 4th",
       "period": 4,
-      "clock": "7:01",
+      "clock": "5:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 114,
+        "score": 118,
         "winner": false,
         "rec": "1-2"
       },
@@ -76,7 +76,7 @@
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 92,
+        "score": 94,
         "winner": false,
         "rec": "0-3"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T02:09:11Z"
+  "updatedAt": "2026-10-28T02:13:12Z"
 }
