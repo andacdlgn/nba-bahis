@@ -87,15 +87,15 @@
       "start": "2026-10-28T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:32 - 4th",
+      "detail": "8:46 - 4th",
       "period": 4,
-      "clock": "10:32",
+      "clock": "8:46",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 105,
+        "score": 106,
         "winner": false,
         "rec": "3-0"
       },
@@ -103,12 +103,12 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 103,
+        "score": 108,
         "winner": false,
         "rec": "2-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T05:22:13Z"
+  "updatedAt": "2026-10-28T05:26:15Z"
 }
