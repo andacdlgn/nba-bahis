@@ -87,9 +87,9 @@
       "start": "2026-10-28T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:07 - 4th",
+      "detail": "1:33 - 4th",
       "period": 4,
-      "clock": "2:07",
+      "clock": "1:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
@@ -103,12 +103,12 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 128,
+        "score": 130,
         "winner": false,
         "rec": "2-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-28T05:46:22Z"
+  "updatedAt": "2026-10-28T05:50:23Z"
 }
