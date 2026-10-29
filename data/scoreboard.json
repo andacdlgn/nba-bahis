@@ -249,10 +249,10 @@
       "start": "2026-10-29T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "41.4 - 4th",
+      "detail": "End of 4th",
       "period": 4,
-      "clock": "41.4",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
@@ -276,15 +276,15 @@
       "start": "2026-10-29T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:42 - 3rd",
+      "detail": "3:44 - 3rd",
       "period": 3,
-      "clock": "5:42",
+      "clock": "3:44",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 80,
+        "score": 82,
         "winner": false,
         "rec": "2-2"
       },
@@ -292,7 +292,7 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 71,
+        "score": 72,
         "winner": false,
         "rec": "4-0"
       },
@@ -303,15 +303,15 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:26 - 2nd",
+      "detail": "5:14 - 2nd",
       "period": 2,
-      "clock": "6:26",
+      "clock": "5:14",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 31,
+        "score": 34,
         "winner": false,
         "rec": "1-2"
       },
@@ -319,12 +319,12 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 34,
+        "score": 40,
         "winner": false,
         "rec": "3-1"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T03:22:19Z"
+  "updatedAt": "2026-10-29T03:26:20Z"
 }
