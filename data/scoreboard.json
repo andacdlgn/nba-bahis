@@ -276,15 +276,15 @@
       "start": "2026-10-29T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "4:41 - 4th",
+      "detail": "3:24 - 4th",
       "period": 4,
-      "clock": "4:41",
+      "clock": "3:24",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 113,
+        "score": 115,
         "winner": false,
         "rec": "2-2"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T03:54:35Z"
+  "updatedAt": "2026-10-29T03:58:37Z"
 }
