@@ -249,10 +249,10 @@
       "start": "2026-10-29T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "10:50 - 4th",
+      "period": 4,
+      "clock": "10:50",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
@@ -265,7 +265,7 @@
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 85,
+        "score": 87,
         "winner": false,
         "rec": "2-2"
       },
@@ -303,15 +303,15 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:31 - 1st",
+      "detail": "3:26 - 1st",
       "period": 1,
-      "clock": "5:31",
+      "clock": "3:26",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 12,
+        "score": 19,
         "winner": false,
         "rec": "1-2"
       },
@@ -319,12 +319,12 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 12,
+        "score": 14,
         "winner": false,
         "rec": "3-1"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T02:54:07Z"
+  "updatedAt": "2026-10-29T02:58:09Z"
 }
