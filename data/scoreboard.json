@@ -303,15 +303,15 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "4:19 - 3rd",
+      "detail": "3:09 - 3rd",
       "period": 3,
-      "clock": "4:19",
+      "clock": "3:09",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 55,
+        "score": 57,
         "winner": false,
         "rec": "1-2"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T04:18:44Z"
+  "updatedAt": "2026-10-29T04:22:46Z"
 }
