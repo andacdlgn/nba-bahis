@@ -276,15 +276,15 @@
       "start": "2026-10-29T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "3:24 - 4th",
+      "detail": "1:42 - 4th",
       "period": 4,
-      "clock": "3:24",
+      "clock": "1:42",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 115,
+        "score": 120,
         "winner": false,
         "rec": "2-2"
       },
@@ -292,7 +292,7 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 93,
+        "score": 94,
         "winner": false,
         "rec": "4-0"
       },
@@ -303,15 +303,15 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "10:25 - 3rd",
+      "period": 3,
+      "clock": "10:25",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 38,
+        "score": 45,
         "winner": false,
         "rec": "1-2"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T03:58:37Z"
+  "updatedAt": "2026-10-29T04:02:38Z"
 }
