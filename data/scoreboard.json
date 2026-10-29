@@ -303,15 +303,15 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:16 - 3rd",
+      "detail": "0.0 - 3rd",
       "period": 3,
-      "clock": "1:16",
+      "clock": "0.0",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 61,
+        "score": 66,
         "winner": false,
         "rec": "1-2"
       },
@@ -319,12 +319,12 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 75,
+        "score": 85,
         "winner": false,
         "rec": "3-1"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T04:26:47Z"
+  "updatedAt": "2026-10-29T04:30:49Z"
 }
