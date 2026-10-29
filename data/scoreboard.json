@@ -303,9 +303,9 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 3rd",
-      "period": 3,
-      "clock": "0.0",
+      "detail": "11:18 - 4th",
+      "period": 4,
+      "clock": "11:18",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T04:30:49Z"
+  "updatedAt": "2026-10-29T04:34:50Z"
 }
