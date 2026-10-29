@@ -274,27 +274,27 @@
     {
       "id": "401909891",
       "start": "2026-10-29T01:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:42 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:42",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
         "score": 120,
-        "winner": false,
-        "rec": "2-2"
+        "winner": true,
+        "rec": "3-2"
       },
       "away": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 94,
+        "score": 96,
         "winner": false,
-        "rec": "4-0"
+        "rec": "4-1"
       },
       "seasonType": 2
     },
@@ -303,15 +303,15 @@
       "start": "2026-10-29T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "10:25 - 3rd",
+      "detail": "8:33 - 3rd",
       "period": 3,
-      "clock": "10:25",
+      "clock": "8:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 45,
+        "score": 49,
         "winner": false,
         "rec": "1-2"
       },
@@ -319,12 +319,12 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 56,
+        "score": 58,
         "winner": false,
         "rec": "3-1"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-29T04:02:38Z"
+  "updatedAt": "2026-10-29T04:06:40Z"
 }
