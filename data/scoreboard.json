@@ -6,15 +6,15 @@
       "start": "2026-10-30T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "42.4 - 4th",
+      "detail": "18.3 - 4th",
       "period": 4,
-      "clock": "42.4",
+      "clock": "18.3",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 110,
+        "score": 112,
         "winner": false,
         "rec": "2-3"
       },
@@ -22,7 +22,7 @@
         "abbr": "CLE",
         "name": "Cavaliers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "score": 106,
+        "score": 111,
         "winner": false,
         "rec": "3-1"
       },
@@ -31,19 +31,19 @@
     {
       "id": "401909894",
       "start": "2026-10-30T00:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "41.7 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "41.7",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 129,
-        "winner": false,
-        "rec": "0-4"
+        "score": 132,
+        "winner": true,
+        "rec": "1-4"
       },
       "away": {
         "abbr": "SAC",
@@ -51,7 +51,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
         "score": 120,
         "winner": false,
-        "rec": "0-4"
+        "rec": "0-5"
       },
       "seasonType": 2
     },
@@ -60,15 +60,15 @@
       "start": "2026-10-30T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:03 - 1st",
+      "detail": "4:07 - 1st",
       "period": 1,
-      "clock": "6:03",
+      "clock": "4:07",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 15,
+        "score": 22,
         "winner": false,
         "rec": "3-0"
       },
@@ -76,12 +76,12 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 15,
+        "score": 18,
         "winner": false,
         "rec": "4-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-30T02:23:13Z"
+  "updatedAt": "2026-10-30T02:27:15Z"
 }
