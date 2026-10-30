@@ -278,15 +278,15 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png",
       "color": "#5d76a9",
       "altColor": "#12173f",
-      "wins": 4,
+      "wins": 5,
       "losses": 0,
       "seed": 2,
-      "gb": "0.5",
+      "gb": "-",
       "pct": 1.0,
-      "streak": "W4",
-      "last10": "4-0",
+      "streak": "W5",
+      "last10": "5-0",
       "home": "1-0",
-      "road": "3-0"
+      "road": "4-0"
     },
     {
       "id": "14",
@@ -394,7 +394,7 @@
       "altColor": "#ef3b24",
       "wins": 4,
       "losses": 1,
-      "seed": 5,
+      "seed": 3,
       "gb": "1",
       "pct": 0.8,
       "streak": "L1",
@@ -469,13 +469,13 @@
       "color": "#e03a3e",
       "altColor": "#000000",
       "wins": 3,
-      "losses": 0,
-      "seed": 3,
-      "gb": "1",
-      "pct": 1.0,
-      "streak": "W3",
-      "last10": "3-0",
-      "home": "1-0",
+      "losses": 1,
+      "seed": 5,
+      "gb": "1.5",
+      "pct": 0.75,
+      "streak": "L1",
+      "last10": "3-1",
+      "home": "1-1",
       "road": "2-0"
     },
     {
@@ -574,5 +574,5 @@
       "road": "1-2"
     }
   ],
-  "updatedAt": "2026-10-30T02:31:17Z"
+  "updatedAt": "2026-10-30T05:51:51Z"
 }

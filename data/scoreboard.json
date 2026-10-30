@@ -62,7 +62,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "POR",
@@ -83,5 +83,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-30T04:20:13Z"
+  "updatedAt": "2026-10-30T05:51:51Z"
 }
