@@ -60,10 +60,10 @@
       "start": "2026-10-30T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "10:35 - 4th",
+      "period": 4,
+      "clock": "10:35",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
@@ -83,5 +83,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-30T03:51:57Z"
+  "updatedAt": "2026-10-30T03:55:59Z"
 }
