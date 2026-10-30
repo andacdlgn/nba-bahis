@@ -60,15 +60,15 @@
       "start": "2026-10-30T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:05 - 4th",
+      "detail": "4:32 - 4th",
       "period": 4,
-      "clock": "6:05",
+      "clock": "4:32",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 89,
+        "score": 93,
         "winner": false,
         "rec": "3-0"
       },
@@ -76,12 +76,12 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 106,
+        "score": 113,
         "winner": false,
         "rec": "4-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-30T04:08:06Z"
+  "updatedAt": "2026-10-30T04:12:09Z"
 }
