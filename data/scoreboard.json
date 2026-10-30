@@ -60,9 +60,9 @@
       "start": "2026-10-30T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:21 - 3rd",
+      "detail": "7:13 - 3rd",
       "period": 3,
-      "clock": "8:21",
+      "clock": "7:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
@@ -76,12 +76,12 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 66,
+        "score": 67,
         "winner": false,
         "rec": "4-0"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-30T03:31:46Z"
+  "updatedAt": "2026-10-30T03:35:48Z"
 }
