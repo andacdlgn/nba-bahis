@@ -222,15 +222,15 @@
       "start": "2026-10-31T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:45 - 4th",
+      "detail": "1:21 - 4th",
       "period": 4,
-      "clock": "2:45",
+      "clock": "1:21",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 105,
+        "score": 107,
         "winner": false,
         "rec": "2-3"
       },
@@ -238,7 +238,7 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 91,
+        "score": 93,
         "winner": false,
         "rec": "4-1"
       },
@@ -272,5 +272,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T04:43:37Z"
+  "updatedAt": "2026-10-31T04:47:39Z"
 }
