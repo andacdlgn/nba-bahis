@@ -6,15 +6,15 @@
       "start": "2026-10-31T19:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:33 - 3rd",
+      "detail": "8:16 - 3rd",
       "period": 3,
-      "clock": "10:33",
+      "clock": "8:16",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 42,
+        "score": 44,
         "winner": false,
         "rec": "1-4"
       },
@@ -22,7 +22,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 59,
+        "score": 68,
         "winner": false,
         "rec": "3-1"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T20:31:42Z"
+  "updatedAt": "2026-10-31T20:35:43Z"
 }
