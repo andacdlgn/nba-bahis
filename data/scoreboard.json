@@ -222,15 +222,15 @@
       "start": "2026-10-31T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:10 - 3rd",
+      "detail": "7:27 - 3rd",
       "period": 3,
-      "clock": "9:10",
+      "clock": "7:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 55,
+        "score": 57,
         "winner": false,
         "rec": "2-3"
       },
@@ -238,7 +238,7 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 61,
+        "score": 66,
         "winner": false,
         "rec": "4-1"
       },
@@ -249,15 +249,15 @@
       "start": "2026-10-31T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:22 - 3rd",
+      "detail": "2:31 - 3rd",
       "period": 3,
-      "clock": "4:22",
+      "clock": "2:31",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 86,
+        "score": 90,
         "winner": false,
         "rec": "1-2"
       },
@@ -265,12 +265,12 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 92,
+        "score": 98,
         "winner": false,
         "rec": "2-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T03:43:09Z"
+  "updatedAt": "2026-10-31T03:47:11Z"
 }
