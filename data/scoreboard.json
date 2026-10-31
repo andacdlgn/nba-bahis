@@ -33,15 +33,15 @@
       "start": "2026-10-31T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:50 - 3rd",
+      "detail": "6:15 - 3rd",
       "period": 3,
-      "clock": "6:50",
+      "clock": "6:15",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHA",
         "name": "Hornets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "score": 67,
+        "score": 70,
         "winner": false,
         "rec": "3-3"
       },
@@ -60,15 +60,15 @@
       "start": "2026-10-31T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "23.0 - 1st",
-      "period": 1,
-      "clock": "23.0",
+      "detail": "11:10 - 2nd",
+      "period": 2,
+      "clock": "11:10",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 33,
+        "score": 37,
         "winner": false,
         "rec": "1-4"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T23:36:56Z"
+  "updatedAt": "2026-10-31T23:40:57Z"
 }
