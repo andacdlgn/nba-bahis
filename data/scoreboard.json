@@ -6,9 +6,9 @@
       "start": "2026-10-31T19:00Z",
       "state": "in",
       "completed": false,
-      "detail": "26.5 - 3rd",
-      "period": 3,
-      "clock": "26.5",
+      "detail": "11:45 - 4th",
+      "period": 4,
+      "clock": "11:45",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
@@ -22,7 +22,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 85,
+        "score": 88,
         "winner": false,
         "rec": "3-1"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T20:55:52Z"
+  "updatedAt": "2026-10-31T20:59:54Z"
 }
