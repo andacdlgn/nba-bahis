@@ -4,17 +4,17 @@
     {
       "id": "401909896",
       "start": "2026-10-31T19:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "10/31 - 3:00 PM EDT",
-      "period": 0,
+      "detail": "Halftime",
+      "period": 2,
       "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 0,
+        "score": 42,
         "winner": false,
         "rec": "1-4"
       },
@@ -22,7 +22,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 0,
+        "score": 59,
         "winner": false,
         "rec": "3-1"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T18:34:59Z"
+  "updatedAt": "2026-10-31T20:19:39Z"
 }
