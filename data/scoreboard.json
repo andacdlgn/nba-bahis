@@ -6,9 +6,9 @@
       "start": "2026-10-31T19:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:09 - 3rd",
+      "detail": "4:22 - 3rd",
       "period": 3,
-      "clock": "5:09",
+      "clock": "4:22",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T20:43:47Z"
+  "updatedAt": "2026-10-31T20:47:49Z"
 }
