@@ -6,10 +6,10 @@
       "start": "2026-10-31T19:00Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "10:33 - 3rd",
+      "period": 3,
+      "clock": "10:33",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T20:19:39Z"
+  "updatedAt": "2026-10-31T20:31:42Z"
 }
