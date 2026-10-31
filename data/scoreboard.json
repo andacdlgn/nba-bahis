@@ -31,12 +31,12 @@
     {
       "id": "401909897",
       "start": "2026-10-31T22:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "10/31 - 6:00 PM EDT",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "10:59 - 1st",
+      "period": 1,
+      "clock": "10:59",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHA",
         "name": "Hornets",
@@ -49,7 +49,7 @@
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 0,
+        "score": 3,
         "winner": false,
         "rec": "5-1"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T21:56:14Z"
+  "updatedAt": "2026-10-31T22:12:18Z"
 }
