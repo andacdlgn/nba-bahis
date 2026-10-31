@@ -33,9 +33,9 @@
       "start": "2026-10-31T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:04 - 1st",
+      "detail": "6:57 - 1st",
       "period": 1,
-      "clock": "8:04",
+      "clock": "6:57",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHA",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-10-31T22:16:19Z"
+  "updatedAt": "2026-10-31T22:20:21Z"
 }
