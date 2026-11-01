@@ -141,15 +141,15 @@
       "start": "2026-11-01T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:38 - 3rd",
+      "detail": "3:27 - 3rd",
       "period": 3,
-      "clock": "3:38",
+      "clock": "3:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 80,
+        "score": 82,
         "winner": false,
         "rec": "3-2"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-01T01:49:55Z"
+  "updatedAt": "2026-11-01T01:50:04Z"
 }
