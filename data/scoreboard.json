@@ -6,10 +6,10 @@
       "start": "2026-11-01T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "11:33 - 3rd",
+      "period": 3,
+      "clock": "11:33",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ORL",
         "name": "Magic",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-01T21:40:21Z"
+  "updatedAt": "2026-11-01T21:56:23Z"
 }
