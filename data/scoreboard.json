@@ -6,15 +6,15 @@
       "start": "2026-11-01T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "7:43 - 2nd",
+      "detail": "6:56 - 2nd",
       "period": 2,
-      "clock": "7:43",
+      "clock": "6:56",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 32,
+        "score": 34,
         "winner": false,
         "rec": "2-3"
       },
@@ -22,7 +22,7 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 33,
+        "score": 38,
         "winner": false,
         "rec": "4-1"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-01T21:16:11Z"
+  "updatedAt": "2026-11-01T21:20:13Z"
 }
