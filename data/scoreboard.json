@@ -6,15 +6,15 @@
       "start": "2026-11-01T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:57 - 3rd",
+      "detail": "4:56 - 3rd",
       "period": 3,
-      "clock": "6:57",
+      "clock": "4:56",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 54,
+        "score": 59,
         "winner": false,
         "rec": "2-3"
       },
@@ -31,12 +31,12 @@
     {
       "id": "401909904",
       "start": "2026-11-01T22:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/1 - 5:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "11:04 - 1st",
+      "period": 1,
+      "clock": "11:04",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
         "name": "Pacers",
@@ -49,7 +49,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 0,
+        "score": 2,
         "winner": false,
         "rec": "0-5"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-01T22:08:30Z"
+  "updatedAt": "2026-11-01T22:12:32Z"
 }
