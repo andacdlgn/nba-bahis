@@ -60,15 +60,15 @@
       "start": "2026-11-02T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "10:26 - 2nd",
+      "detail": "8:21 - 2nd",
       "period": 2,
-      "clock": "10:26",
+      "clock": "8:21",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 34,
+        "score": 36,
         "winner": false,
         "rec": "3-3"
       },
@@ -76,7 +76,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 37,
+        "score": 39,
         "winner": false,
         "rec": "1-4"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-02T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:12 - 1st",
+      "detail": "7:24 - 1st",
       "period": 1,
-      "clock": "10:12",
+      "clock": "7:24",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 3,
+        "score": 9,
         "winner": false,
         "rec": "4-2"
       },
@@ -103,12 +103,12 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 5,
+        "score": 6,
         "winner": false,
         "rec": "3-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T02:13:59Z"
+  "updatedAt": "2026-11-02T02:18:01Z"
 }
