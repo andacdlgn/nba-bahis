@@ -87,9 +87,9 @@
       "start": "2026-11-02T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:54 - 2nd",
+      "detail": "7:07 - 2nd",
       "period": 2,
-      "clock": "7:54",
+      "clock": "7:07",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T02:46:25Z"
+  "updatedAt": "2026-11-02T02:50:27Z"
 }
