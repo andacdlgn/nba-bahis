@@ -60,9 +60,9 @@
       "start": "2026-11-02T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:30 - 2nd",
+      "detail": "5:12 - 2nd",
       "period": 2,
-      "clock": "5:30",
+      "clock": "5:12",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T02:22:03Z"
+  "updatedAt": "2026-11-02T02:22:14Z"
 }
