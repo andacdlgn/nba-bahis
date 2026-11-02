@@ -58,12 +58,12 @@
     {
       "id": "401909905",
       "start": "2026-11-02T01:30Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/1 - 8:30 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "11:40 - 1st",
+      "period": 1,
+      "clock": "11:40",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T01:17:41Z"
+  "updatedAt": "2026-11-02T01:41:44Z"
 }
