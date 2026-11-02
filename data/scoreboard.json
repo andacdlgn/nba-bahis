@@ -33,15 +33,15 @@
       "start": "2026-11-01T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:07 - 3rd",
+      "detail": "1:43 - 3rd",
       "period": 3,
-      "clock": "3:07",
+      "clock": "1:43",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 56,
+        "score": 60,
         "winner": false,
         "rec": "2-4"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-01T23:57:14Z"
+  "updatedAt": "2026-11-02T00:01:15Z"
 }
