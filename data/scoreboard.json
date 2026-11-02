@@ -60,15 +60,15 @@
       "start": "2026-11-02T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:35 - 1st",
+      "detail": "52.6 - 1st",
       "period": 1,
-      "clock": "1:35",
+      "clock": "52.6",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 26,
+        "score": 29,
         "winner": false,
         "rec": "3-3"
       },
@@ -76,7 +76,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 32,
+        "score": 37,
         "winner": false,
         "rec": "1-4"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T02:01:54Z"
+  "updatedAt": "2026-11-02T02:05:55Z"
 }
