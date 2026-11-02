@@ -33,9 +33,9 @@
       "start": "2026-11-01T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "52.4 - 4th",
+      "detail": "39.4 - 4th",
       "period": 4,
-      "clock": "52.4",
+      "clock": "39.4",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
@@ -49,7 +49,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 97,
+        "score": 98,
         "winner": false,
         "rec": "0-5"
       },
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T00:41:32Z"
+  "updatedAt": "2026-11-02T00:45:34Z"
 }
