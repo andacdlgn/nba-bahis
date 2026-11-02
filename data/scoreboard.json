@@ -33,9 +33,9 @@
       "start": "2026-11-01T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:39 - 4th",
+      "detail": "52.4 - 4th",
       "period": 4,
-      "clock": "1:39",
+      "clock": "52.4",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
@@ -110,5 +110,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-02T00:37:31Z"
+  "updatedAt": "2026-11-02T00:41:32Z"
 }
