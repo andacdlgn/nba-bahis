@@ -274,19 +274,19 @@
     {
       "id": "401909917",
       "start": "2026-11-03T01:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:15 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:15",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 114,
-        "winner": false,
-        "rec": "4-2"
+        "score": 119,
+        "winner": true,
+        "rec": "5-2"
       },
       "away": {
         "abbr": "UTAH",
@@ -294,7 +294,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
         "score": 97,
         "winner": false,
-        "rec": "1-5"
+        "rec": "1-6"
       },
       "seasonType": 2
     },
@@ -303,15 +303,15 @@
       "start": "2026-11-03T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:53 - 4th",
+      "detail": "8:13 - 4th",
       "period": 4,
-      "clock": "9:53",
+      "clock": "8:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 89,
+        "score": 91,
         "winner": false,
         "rec": "3-2"
       },
@@ -319,7 +319,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 89,
+        "score": 96,
         "winner": false,
         "rec": "4-1"
       },
@@ -330,15 +330,15 @@
       "start": "2026-11-03T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:45 - 2nd",
+      "detail": "2:59 - 2nd",
       "period": 2,
-      "clock": "3:45",
+      "clock": "2:59",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 39,
+        "score": 44,
         "winner": false,
         "rec": "4-3"
       },
@@ -357,15 +357,15 @@
       "start": "2026-11-03T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:20 - 2nd",
+      "detail": "3:31 - 2nd",
       "period": 2,
-      "clock": "5:20",
+      "clock": "3:31",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 47,
+        "score": 57,
         "winner": false,
         "rec": "1-5"
       },
@@ -373,7 +373,7 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 38,
+        "score": 42,
         "winner": false,
         "rec": "3-3"
       },
@@ -384,15 +384,15 @@
       "start": "2026-11-03T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:34 - 2nd",
+      "detail": "4:46 - 2nd",
       "period": 2,
-      "clock": "6:34",
+      "clock": "4:46",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 50,
+        "score": 56,
         "winner": false,
         "rec": "5-2"
       },
@@ -400,12 +400,12 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 46,
+        "score": 51,
         "winner": false,
         "rec": "2-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-03T04:00:57Z"
+  "updatedAt": "2026-11-03T04:04:59Z"
 }
