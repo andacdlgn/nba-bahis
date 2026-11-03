@@ -330,15 +330,15 @@
       "start": "2026-11-03T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:04 - 3rd",
+      "detail": "5:47 - 3rd",
       "period": 3,
-      "clock": "7:04",
+      "clock": "5:47",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 71,
+        "score": 76,
         "winner": false,
         "rec": "4-3"
       },
@@ -346,7 +346,7 @@
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 73,
+        "score": 79,
         "winner": false,
         "rec": "1-3"
       },
@@ -357,15 +357,15 @@
       "start": "2026-11-03T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:52 - 3rd",
+      "detail": "3:27 - 3rd",
       "period": 3,
-      "clock": "4:52",
+      "clock": "3:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 78,
+        "score": 82,
         "winner": false,
         "rec": "1-5"
       },
@@ -373,7 +373,7 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 65,
+        "score": 71,
         "winner": false,
         "rec": "3-3"
       },
@@ -384,15 +384,15 @@
       "start": "2026-11-03T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:25 - 3rd",
+      "detail": "1:19 - 3rd",
       "period": 3,
-      "clock": "3:25",
+      "clock": "1:19",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 103,
+        "score": 108,
         "winner": false,
         "rec": "5-2"
       },
@@ -400,12 +400,12 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 85,
+        "score": 90,
         "winner": false,
         "rec": "2-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-03T04:49:21Z"
+  "updatedAt": "2026-11-03T04:53:23Z"
 }
