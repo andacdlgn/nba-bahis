@@ -62,7 +62,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "12:00",
+      "clock": "0.0",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "IND",
@@ -170,7 +170,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DAL",
@@ -278,7 +278,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
@@ -332,7 +332,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "GS",
@@ -359,7 +359,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAC",
@@ -386,7 +386,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAL",
@@ -407,5 +407,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-03T05:57:53Z"
+  "updatedAt": "2026-11-03T06:50:04Z"
 }
