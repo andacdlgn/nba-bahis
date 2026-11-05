@@ -357,10 +357,10 @@
       "start": "2026-11-05T03:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1.7 - 4th",
+      "detail": "End of 4th",
       "period": 4,
-      "clock": "1.7",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
@@ -380,5 +380,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-05T06:02:49Z"
+  "updatedAt": "2026-11-05T06:06:51Z"
 }
