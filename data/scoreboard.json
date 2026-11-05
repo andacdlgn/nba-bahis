@@ -62,7 +62,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "BOS",
@@ -168,9 +168,9 @@
       "start": "2026-11-05T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:35 - 4th",
+      "detail": "57.2 - 4th",
       "period": 4,
-      "clock": "1:35",
+      "clock": "57.2",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NO",
@@ -184,7 +184,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 99,
+        "score": 101,
         "winner": false,
         "rec": "1-6"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-05T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "9:27 - 4th",
+      "detail": "8:14 - 4th",
       "period": 4,
-      "clock": "9:27",
+      "clock": "8:14",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 90,
+        "score": 92,
         "winner": false,
         "rec": "7-1"
       },
@@ -238,7 +238,7 @@
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 89,
+        "score": 91,
         "winner": false,
         "rec": "5-3"
       },
@@ -249,9 +249,9 @@
       "start": "2026-11-05T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:33 - 3rd",
+      "detail": "5:18 - 3rd",
       "period": 3,
-      "clock": "6:33",
+      "clock": "5:18",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
@@ -265,7 +265,7 @@
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 74,
+        "score": 77,
         "winner": false,
         "rec": "4-3"
       },
@@ -276,15 +276,15 @@
       "start": "2026-11-05T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "11:21 - 3rd",
+      "detail": "8:37 - 3rd",
       "period": 3,
-      "clock": "11:21",
+      "clock": "8:37",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 61,
+        "score": 67,
         "winner": false,
         "rec": "1-4"
       },
@@ -292,7 +292,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 72,
+        "score": 78,
         "winner": false,
         "rec": "5-1"
       },
@@ -303,9 +303,9 @@
       "start": "2026-11-05T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:52 - 2nd",
+      "detail": "6:45 - 2nd",
       "period": 2,
-      "clock": "6:52",
+      "clock": "6:45",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
@@ -330,15 +330,15 @@
       "start": "2026-11-05T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "25.4 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "25.4",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 27,
+        "score": 28,
         "winner": false,
         "rec": "1-6"
       },
@@ -346,7 +346,7 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 25,
+        "score": 28,
         "winner": false,
         "rec": "6-2"
       },
@@ -380,5 +380,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-05T03:33:44Z"
+  "updatedAt": "2026-11-05T03:37:46Z"
 }
