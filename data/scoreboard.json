@@ -359,7 +359,7 @@
       "completed": true,
       "detail": "Final/OT",
       "period": 5,
-      "clock": "0.0",
+      "clock": "5:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAC",
@@ -380,5 +380,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-05T06:26:59Z"
+  "updatedAt": "2026-11-05T09:30:30Z"
 }
