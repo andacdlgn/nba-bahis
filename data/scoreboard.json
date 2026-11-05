@@ -303,9 +303,9 @@
       "start": "2026-11-05T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "10:31 - 4th",
+      "detail": "8:15 - 4th",
       "period": 4,
-      "clock": "10:31",
+      "clock": "8:15",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
@@ -319,7 +319,7 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 82,
+        "score": 92,
         "winner": false,
         "rec": "4-3"
       },
@@ -330,10 +330,10 @@
       "start": "2026-11-05T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "11:17 - 4th",
+      "period": 4,
+      "clock": "11:17",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
@@ -346,7 +346,7 @@
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 87,
+        "score": 89,
         "winner": false,
         "rec": "6-2"
       },
@@ -357,15 +357,15 @@
       "start": "2026-11-05T03:30Z",
       "state": "in",
       "completed": false,
-      "detail": "7:10 - 3rd",
+      "detail": "6:27 - 3rd",
       "period": 3,
-      "clock": "7:10",
+      "clock": "6:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 73,
+        "score": 75,
         "winner": false,
         "rec": "1-6"
       },
@@ -373,12 +373,12 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 65,
+        "score": 67,
         "winner": false,
         "rec": "2-5"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-05T04:58:21Z"
+  "updatedAt": "2026-11-05T05:02:23Z"
 }
