@@ -35,7 +35,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "GS",
@@ -56,5 +56,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-06T05:38:10Z"
+  "updatedAt": "2026-11-06T06:50:21Z"
 }
