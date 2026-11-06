@@ -6,15 +6,15 @@
       "start": "2026-11-06T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:15 - 3rd",
+      "detail": "2:34 - 3rd",
       "period": 3,
-      "clock": "4:15",
+      "clock": "2:34",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 87,
+        "score": 89,
         "winner": false,
         "rec": "1-5"
       },
@@ -22,7 +22,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 62,
+        "score": 65,
         "winner": false,
         "rec": "2-5"
       },
@@ -33,15 +33,15 @@
       "start": "2026-11-06T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:54 - 2nd",
+      "detail": "9:09 - 2nd",
       "period": 2,
-      "clock": "10:54",
+      "clock": "9:09",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 28,
+        "score": 32,
         "winner": false,
         "rec": "5-3"
       },
@@ -49,12 +49,12 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 32,
+        "score": 33,
         "winner": false,
         "rec": "3-5"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-06T03:41:23Z"
+  "updatedAt": "2026-11-06T03:45:25Z"
 }
