@@ -6,15 +6,15 @@
       "start": "2026-11-06T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:11 - 2nd",
+      "detail": "4:48 - 2nd",
       "period": 2,
-      "clock": "7:11",
+      "clock": "4:48",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 41,
+        "score": 49,
         "winner": false,
         "rec": "1-5"
       },
@@ -22,7 +22,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 35,
+        "score": 39,
         "winner": false,
         "rec": "2-5"
       },
@@ -56,5 +56,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-06T02:53:05Z"
+  "updatedAt": "2026-11-06T02:57:06Z"
 }
