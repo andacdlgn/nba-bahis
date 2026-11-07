@@ -6,10 +6,10 @@
       "start": "2026-11-07T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.1",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "11:57 - 3rd",
+      "period": 3,
+      "clock": "11:57",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
         "name": "Pacers",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-07T23:13:54Z"
+  "updatedAt": "2026-11-07T23:29:57Z"
 }
