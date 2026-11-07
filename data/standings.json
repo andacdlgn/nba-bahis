@@ -279,13 +279,13 @@
       "color": "#5d76a9",
       "altColor": "#12173f",
       "wins": 6,
-      "losses": 2,
+      "losses": 3,
       "seed": 6,
-      "gb": "0.5",
-      "pct": 0.75,
-      "streak": "L2",
-      "last10": "6-2",
-      "home": "2-2",
+      "gb": "1",
+      "pct": 0.667,
+      "streak": "L3",
+      "last10": "6-3",
+      "home": "2-3",
       "road": "4-0"
     },
     {
@@ -392,15 +392,15 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
       "color": "#007ac1",
       "altColor": "#ef3b24",
-      "wins": 6,
+      "wins": 7,
       "losses": 2,
       "seed": 4,
-      "gb": "0.5",
-      "pct": 0.75,
-      "streak": "W2",
-      "last10": "6-2",
+      "gb": "-",
+      "pct": 0.778,
+      "streak": "W3",
+      "last10": "7-2",
       "home": "4-0",
-      "road": "2-2"
+      "road": "3-2"
     },
     {
       "id": "19",
@@ -574,5 +574,5 @@
       "road": "2-3"
     }
   ],
-  "updatedAt": "2026-11-07T03:25:43Z"
+  "updatedAt": "2026-11-07T03:29:45Z"
 }
