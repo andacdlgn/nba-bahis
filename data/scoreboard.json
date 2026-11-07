@@ -195,15 +195,15 @@
       "start": "2026-11-07T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:25 - 4th",
+      "detail": "3:41 - 4th",
       "period": 4,
-      "clock": "5:25",
+      "clock": "3:41",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 103,
+        "score": 108,
         "winner": false,
         "rec": "7-2"
       },
@@ -211,7 +211,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 91,
+        "score": 98,
         "winner": false,
         "rec": "6-1"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-07T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:37 - 4th",
+      "detail": "1:19 - 4th",
       "period": 4,
-      "clock": "3:37",
+      "clock": "1:19",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 97,
+        "score": 106,
         "winner": false,
         "rec": "1-7"
       },
@@ -238,12 +238,12 @@
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 116,
+        "score": 120,
         "winner": false,
         "rec": "6-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-07T05:38:35Z"
+  "updatedAt": "2026-11-07T05:42:36Z"
 }
