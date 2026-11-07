@@ -6,10 +6,10 @@
       "start": "2026-11-07T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 1st",
-      "period": 1,
-      "clock": "0.1",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "12:00 - 2nd",
+      "period": 2,
+      "clock": "12:00",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
         "name": "Pacers",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-07T22:41:44Z"
+  "updatedAt": "2026-11-07T22:45:45Z"
 }
