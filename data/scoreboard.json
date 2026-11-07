@@ -6,9 +6,9 @@
       "start": "2026-11-07T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "51.7 - 3rd",
+      "detail": "9.7 - 3rd",
       "period": 3,
-      "clock": "51.7",
+      "clock": "9.7",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-07T23:54:05Z"
+  "updatedAt": "2026-11-07T23:58:06Z"
 }
