@@ -193,27 +193,27 @@
     {
       "id": "401909294",
       "start": "2026-11-07T03:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "10.8 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "10.8",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 120,
-        "winner": false,
-        "rec": "7-2"
+        "score": 124,
+        "winner": true,
+        "rec": "8-2"
       },
       "away": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 116,
+        "score": 118,
         "winner": false,
-        "rec": "6-1"
+        "rec": "6-2"
       },
       "seasonType": 2
     },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-07T06:02:44Z"
+  "updatedAt": "2026-11-07T06:06:45Z"
 }
