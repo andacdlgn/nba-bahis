@@ -33,15 +33,15 @@
       "start": "2026-11-08T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:54 - 2nd",
+      "detail": "3:50 - 2nd",
       "period": 2,
-      "clock": "5:54",
+      "clock": "3:50",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 44,
+        "score": 50,
         "winner": false,
         "rec": "6-4"
       },
@@ -49,7 +49,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 53,
+        "score": 61,
         "winner": false,
         "rec": "2-6"
       },
@@ -60,9 +60,9 @@
       "start": "2026-11-08T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:24 - 1st",
+      "detail": "3:07 - 1st",
       "period": 1,
-      "clock": "4:24",
+      "clock": "3:07",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
@@ -76,7 +76,7 @@
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 14,
+        "score": 17,
         "winner": false,
         "rec": "4-4"
       },
@@ -87,9 +87,9 @@
       "start": "2026-11-08T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:24 - 1st",
+      "detail": "1:27 - 1st",
       "period": 1,
-      "clock": "2:24",
+      "clock": "1:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "OKC",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T01:30:38Z"
+  "updatedAt": "2026-11-08T01:34:39Z"
 }
