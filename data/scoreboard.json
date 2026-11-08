@@ -31,12 +31,12 @@
     {
       "id": "401909939",
       "start": "2026-11-08T00:30Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/7 - 7:30 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "11:34 - 1st",
+      "period": 1,
+      "clock": "11:34",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T00:34:19Z"
+  "updatedAt": "2026-11-08T00:42:21Z"
 }
