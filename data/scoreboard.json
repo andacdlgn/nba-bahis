@@ -6,15 +6,15 @@
       "start": "2026-11-08T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:45 - 1st",
+      "detail": "3:30 - 1st",
       "period": 1,
-      "clock": "5:45",
+      "clock": "3:30",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 23,
+        "score": 26,
         "winner": false,
         "rec": "1-7"
       },
@@ -22,7 +22,7 @@
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 16,
+        "score": 25,
         "winner": false,
         "rec": "8-2"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T20:51:40Z"
+  "updatedAt": "2026-11-08T20:55:42Z"
 }
