@@ -168,15 +168,15 @@
       "start": "2026-11-08T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "11:42 - 4th",
+      "detail": "8:33 - 4th",
       "period": 4,
-      "clock": "11:42",
+      "clock": "8:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 76,
+        "score": 82,
         "winner": false,
         "rec": "6-2"
       },
@@ -184,12 +184,12 @@
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 109,
+        "score": 116,
         "winner": false,
         "rec": "7-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T05:08:20Z"
+  "updatedAt": "2026-11-08T05:12:21Z"
 }
