@@ -4,27 +4,27 @@
     {
       "id": "401909945",
       "start": "2026-11-08T20:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "16.5 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "16.5",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
         "score": 121,
         "winner": false,
-        "rec": "1-7"
+        "rec": "1-8"
       },
       "away": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 125,
-        "winner": false,
-        "rec": "8-2"
+        "score": 127,
+        "winner": true,
+        "rec": "9-2"
       },
       "seasonType": 2
     },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T22:44:31Z"
+  "updatedAt": "2026-11-08T22:48:32Z"
 }
