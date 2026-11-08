@@ -71,7 +71,7 @@
       "altColor": "#1d1060",
       "wins": 3,
       "losses": 7,
-      "seed": 11,
+      "seed": 10,
       "gb": "5",
       "pct": 0.3,
       "streak": "L6",
@@ -145,13 +145,13 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png",
       "color": "#0e2240",
       "altColor": "#fec524",
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "seed": 9,
-      "gb": "2.5",
-      "pct": 0.571,
-      "streak": "W1",
-      "last10": "4-3",
+      "gb": "2",
+      "pct": 0.625,
+      "streak": "W2",
+      "last10": "5-3",
       "home": "2-2",
       "road": "2-1"
     },
@@ -222,12 +222,12 @@
       "color": "#0c2340",
       "altColor": "#ffd520",
       "wins": 3,
-      "losses": 6,
-      "seed": 10,
-      "gb": "4.5",
-      "pct": 0.333,
-      "streak": "W1",
-      "last10": "3-6",
+      "losses": 7,
+      "seed": 11,
+      "gb": "5",
+      "pct": 0.3,
+      "streak": "L1",
+      "last10": "3-7",
       "home": "0-4",
       "road": "3-2"
     },
@@ -574,5 +574,5 @@
       "road": "2-3"
     }
   ],
-  "updatedAt": "2026-11-07T08:49:08Z"
+  "updatedAt": "2026-11-08T00:38:20Z"
 }
