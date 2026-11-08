@@ -168,9 +168,9 @@
       "start": "2026-11-08T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:10 - 4th",
+      "detail": "2:31 - 4th",
       "period": 4,
-      "clock": "3:10",
+      "clock": "2:31",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T05:24:27Z"
+  "updatedAt": "2026-11-08T05:28:28Z"
 }
