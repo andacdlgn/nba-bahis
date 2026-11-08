@@ -35,7 +35,7 @@
       "completed": false,
       "detail": "Halftime",
       "period": 2,
-      "clock": "0.1",
+      "clock": "0.0",
       "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "ATL",
@@ -60,9 +60,9 @@
       "start": "2026-11-08T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:17 - 2nd",
+      "detail": "7:27 - 2nd",
       "period": 2,
-      "clock": "8:17",
+      "clock": "7:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
@@ -76,7 +76,7 @@
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 32,
+        "score": 34,
         "winner": false,
         "rec": "4-4"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-08T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:54 - 2nd",
+      "detail": "6:05 - 2nd",
       "period": 2,
-      "clock": "6:54",
+      "clock": "6:05",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 35,
+        "score": 38,
         "winner": false,
         "rec": "7-2"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-08T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "7:26 - 1st",
+      "detail": "4:21 - 1st",
       "period": 1,
-      "clock": "7:26",
+      "clock": "4:21",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 17,
+        "score": 20,
         "winner": false,
         "rec": "6-3"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T01:50:44Z"
+  "updatedAt": "2026-11-08T01:54:46Z"
 }
