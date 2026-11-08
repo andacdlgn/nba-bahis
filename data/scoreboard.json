@@ -6,9 +6,9 @@
       "start": "2026-11-08T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:16 - 1st",
+      "detail": "5:45 - 1st",
       "period": 1,
-      "clock": "6:16",
+      "clock": "5:45",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHI",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T20:47:38Z"
+  "updatedAt": "2026-11-08T20:51:40Z"
 }
