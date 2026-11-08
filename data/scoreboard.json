@@ -6,15 +6,15 @@
       "start": "2026-11-07T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 4th",
+      "detail": "7:43 - 4th",
       "period": 4,
-      "clock": "0.0",
+      "clock": "7:43",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 87,
+        "score": 92,
         "winner": false,
         "rec": "3-6"
       },
@@ -22,7 +22,7 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 99,
+        "score": 102,
         "winner": false,
         "rec": "4-3"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T00:10:10Z"
+  "updatedAt": "2026-11-08T00:14:11Z"
 }
