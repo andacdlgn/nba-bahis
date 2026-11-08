@@ -114,15 +114,15 @@
       "start": "2026-11-08T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "2.6 - 4th",
-      "period": 4,
-      "clock": "2.6",
+      "detail": "4:52 - OT",
+      "period": 5,
+      "clock": "4:52",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 110,
+        "score": 111,
         "winner": false,
         "rec": "6-3"
       },
@@ -130,7 +130,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 108,
+        "score": 110,
         "winner": false,
         "rec": "2-6"
       },
@@ -141,15 +141,15 @@
       "start": "2026-11-08T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:37 - 4th",
+      "detail": "6:05 - 4th",
       "period": 4,
-      "clock": "8:37",
+      "clock": "6:05",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 82,
+        "score": 92,
         "winner": false,
         "rec": "2-5"
       },
@@ -157,7 +157,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 82,
+        "score": 91,
         "winner": false,
         "rec": "7-2"
       },
@@ -168,15 +168,15 @@
       "start": "2026-11-08T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:27 - 2nd",
+      "detail": "3:26 - 2nd",
       "period": 2,
-      "clock": "4:27",
+      "clock": "3:26",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 35,
+        "score": 37,
         "winner": false,
         "rec": "6-2"
       },
@@ -184,12 +184,12 @@
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 42,
+        "score": 48,
         "winner": false,
         "rec": "7-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T04:03:52Z"
+  "updatedAt": "2026-11-08T04:07:54Z"
 }
