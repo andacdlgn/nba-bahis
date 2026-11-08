@@ -114,15 +114,15 @@
       "start": "2026-11-08T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "4:34 - 4th",
+      "detail": "3:10 - 4th",
       "period": 4,
-      "clock": "4:34",
+      "clock": "3:10",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 96,
+        "score": 98,
         "winner": false,
         "rec": "6-3"
       },
@@ -130,7 +130,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 95,
+        "score": 98,
         "winner": false,
         "rec": "2-6"
       },
@@ -141,9 +141,9 @@
       "start": "2026-11-08T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "58.6 - 3rd",
+      "detail": "50.4 - 3rd",
       "period": 3,
-      "clock": "58.6",
+      "clock": "50.4",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
@@ -157,7 +157,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 73,
+        "score": 75,
         "winner": false,
         "rec": "7-2"
       },
@@ -168,15 +168,15 @@
       "start": "2026-11-08T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:23 - 2nd",
+      "detail": "9:07 - 2nd",
       "period": 2,
-      "clock": "9:23",
+      "clock": "9:07",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 22,
+        "score": 24,
         "winner": false,
         "rec": "6-2"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T03:47:45Z"
+  "updatedAt": "2026-11-08T03:51:47Z"
 }
