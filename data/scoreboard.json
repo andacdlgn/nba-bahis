@@ -33,15 +33,15 @@
       "start": "2026-11-08T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "3:50 - 2nd",
+      "detail": "1:47 - 2nd",
       "period": 2,
-      "clock": "3:50",
+      "clock": "1:47",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 50,
+        "score": 56,
         "winner": false,
         "rec": "6-4"
       },
@@ -49,7 +49,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 61,
+        "score": 68,
         "winner": false,
         "rec": "2-6"
       },
@@ -60,15 +60,15 @@
       "start": "2026-11-08T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:07 - 1st",
+      "detail": "1:35 - 1st",
       "period": 1,
-      "clock": "3:07",
+      "clock": "1:35",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
         "name": "Cavaliers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "score": 16,
+        "score": 24,
         "winner": false,
         "rec": "5-4"
       },
@@ -76,7 +76,7 @@
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 17,
+        "score": 21,
         "winner": false,
         "rec": "4-4"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-08T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:27 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "1:27",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 21,
+        "score": 25,
         "winner": false,
         "rec": "7-2"
       },
@@ -103,7 +103,7 @@
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 16,
+        "score": 19,
         "winner": false,
         "rec": "4-5"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T01:34:39Z"
+  "updatedAt": "2026-11-08T01:38:40Z"
 }
