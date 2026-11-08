@@ -33,10 +33,10 @@
       "start": "2026-11-08T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7.7 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "7.7",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "DET",
         "name": "Pistons",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T23:32:48Z"
+  "updatedAt": "2026-11-08T23:36:50Z"
 }
