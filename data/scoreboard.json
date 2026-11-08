@@ -6,10 +6,10 @@
       "start": "2026-11-08T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "3.5 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "3.5",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-08T21:31:59Z"
+  "updatedAt": "2026-11-08T21:36:01Z"
 }
