@@ -60,15 +60,15 @@
       "start": "2026-11-09T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:05 - 1st",
+      "detail": "8:07 - 1st",
       "period": 1,
-      "clock": "10:05",
+      "clock": "8:07",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 6,
+        "score": 9,
         "winner": false,
         "rec": "7-3"
       },
@@ -76,7 +76,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 0,
+        "score": 6,
         "winner": false,
         "rec": "1-8"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T00:13:06Z"
+  "updatedAt": "2026-11-09T00:17:08Z"
 }
