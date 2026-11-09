@@ -116,7 +116,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "12:00",
+      "clock": "0.0",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIL",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T03:22:40Z"
+  "updatedAt": "2026-11-09T03:26:41Z"
 }
