@@ -31,27 +31,27 @@
     {
       "id": "401909946",
       "start": "2026-11-08T23:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "8.7 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "8.7",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 114,
+        "score": 116,
         "winner": false,
-        "rec": "6-2"
+        "rec": "6-3"
       },
       "away": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 118,
-        "winner": false,
-        "rec": "8-2"
+        "score": 121,
+        "winner": true,
+        "rec": "9-2"
       },
       "seasonType": 2
     },
@@ -60,15 +60,15 @@
       "start": "2026-11-09T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:17 - 3rd",
+      "detail": "5:33 - 3rd",
       "period": 3,
-      "clock": "6:17",
+      "clock": "5:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 68,
+        "score": 70,
         "winner": false,
         "rec": "7-3"
       },
@@ -87,9 +87,9 @@
       "start": "2026-11-09T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "3:23 - 2nd",
+      "detail": "2:27 - 2nd",
       "period": 2,
-      "clock": "3:23",
+      "clock": "2:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DAL",
@@ -103,7 +103,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 37,
+        "score": 40,
         "winner": false,
         "rec": "2-7"
       },
@@ -114,9 +114,9 @@
       "start": "2026-11-09T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6.9 - 1st",
-      "period": 1,
-      "clock": "6.9",
+      "detail": "11:13 - 2nd",
+      "period": 2,
+      "clock": "11:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIL",
@@ -130,7 +130,7 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 25,
+        "score": 28,
         "winner": false,
         "rec": "7-2"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T01:37:46Z"
+  "updatedAt": "2026-11-09T01:41:48Z"
 }
