@@ -141,9 +141,9 @@
       "start": "2026-11-09T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:58 - 1st",
+      "detail": "7:42 - 1st",
       "period": 1,
-      "clock": "7:58",
+      "clock": "7:42",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
@@ -168,9 +168,9 @@
       "start": "2026-11-09T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:29 - 1st",
+      "detail": "7:27 - 1st",
       "period": 1,
-      "clock": "7:29",
+      "clock": "7:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T02:18:05Z"
+  "updatedAt": "2026-11-09T02:18:15Z"
 }
