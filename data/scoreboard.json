@@ -141,15 +141,15 @@
       "start": "2026-11-09T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "10:59 - 3rd",
+      "period": 3,
+      "clock": "10:59",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 67,
+        "score": 70,
         "winner": false,
         "rec": "1-7"
       },
@@ -157,7 +157,7 @@
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 60,
+        "score": 63,
         "winner": false,
         "rec": "4-5"
       },
@@ -168,9 +168,9 @@
       "start": "2026-11-09T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:18 - 3rd",
+      "detail": "9:48 - 3rd",
       "period": 3,
-      "clock": "10:18",
+      "clock": "9:48",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -184,12 +184,12 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 72,
+        "score": 75,
         "winner": false,
         "rec": "3-6"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T03:30:44Z"
+  "updatedAt": "2026-11-09T03:34:45Z"
 }
