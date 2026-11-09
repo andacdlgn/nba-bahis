@@ -33,15 +33,15 @@
       "start": "2026-11-08T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:36 - 4th",
+      "detail": "6:04 - 4th",
       "period": 4,
-      "clock": "6:36",
+      "clock": "6:04",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 92,
+        "score": 94,
         "winner": false,
         "rec": "6-2"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-09T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5.8 - 1st",
-      "period": 1,
-      "clock": "5.8",
+      "detail": "11:49 - 2nd",
+      "period": 2,
+      "clock": "11:49",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 30,
+        "score": 36,
         "winner": false,
         "rec": "5-4"
       },
@@ -103,7 +103,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 24,
+        "score": 26,
         "winner": false,
         "rec": "2-7"
       },
@@ -112,17 +112,17 @@
     {
       "id": "401909949",
       "start": "2026-11-09T01:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/8 - 8:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "9:36 - 1st",
+      "period": 1,
+      "clock": "9:36",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIL",
         "name": "Bucks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-        "score": 0,
+        "score": 7,
         "winner": false,
         "rec": "1-8"
       },
@@ -130,7 +130,7 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 0,
+        "score": 3,
         "winner": false,
         "rec": "7-2"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T01:09:33Z"
+  "updatedAt": "2026-11-09T01:13:35Z"
 }
