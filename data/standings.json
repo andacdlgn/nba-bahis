@@ -165,13 +165,13 @@
       "color": "#1d428a",
       "altColor": "#c8102e",
       "wins": 6,
-      "losses": 2,
+      "losses": 3,
       "seed": 3,
-      "gb": "1.5",
-      "pct": 0.75,
-      "streak": "L1",
-      "last10": "6-2",
-      "home": "2-1",
+      "gb": "2",
+      "pct": 0.667,
+      "streak": "L2",
+      "last10": "6-3",
+      "home": "2-2",
       "road": "4-1"
     },
     {
@@ -574,5 +574,5 @@
       "road": "2-4"
     }
   ],
-  "updatedAt": "2026-11-09T01:41:48Z"
+  "updatedAt": "2026-11-09T01:45:50Z"
 }
