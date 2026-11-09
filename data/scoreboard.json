@@ -60,9 +60,9 @@
       "start": "2026-11-09T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:07 - 1st",
+      "detail": "6:15 - 1st",
       "period": 1,
-      "clock": "8:07",
+      "clock": "6:15",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
@@ -76,7 +76,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 6,
+        "score": 12,
         "winner": false,
         "rec": "1-8"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-09T00:17:08Z"
+  "updatedAt": "2026-11-09T00:21:10Z"
 }
