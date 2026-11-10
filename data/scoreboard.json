@@ -195,9 +195,9 @@
       "start": "2026-11-10T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:54 - 3rd",
+      "detail": "7:09 - 3rd",
       "period": 3,
-      "clock": "7:54",
+      "clock": "7:09",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
@@ -211,12 +211,12 @@
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 55,
+        "score": 58,
         "winner": false,
         "rec": "4-6"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-10T04:30:57Z"
+  "updatedAt": "2026-11-10T04:34:59Z"
 }
