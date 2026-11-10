@@ -195,15 +195,15 @@
       "start": "2026-11-10T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:36 - 3rd",
+      "detail": "7:54 - 3rd",
       "period": 3,
-      "clock": "9:36",
+      "clock": "7:54",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 79,
+        "score": 87,
         "winner": false,
         "rec": "7-3"
       },
@@ -211,12 +211,12 @@
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 48,
+        "score": 55,
         "winner": false,
         "rec": "4-6"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-10T04:26:55Z"
+  "updatedAt": "2026-11-10T04:30:57Z"
 }
