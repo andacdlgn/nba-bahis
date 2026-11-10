@@ -195,15 +195,15 @@
       "start": "2026-11-10T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:09 - 3rd",
+      "detail": "5:27 - 3rd",
       "period": 3,
-      "clock": "7:09",
+      "clock": "5:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 87,
+        "score": 90,
         "winner": false,
         "rec": "7-3"
       },
@@ -218,5 +218,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-10T04:34:59Z"
+  "updatedAt": "2026-11-10T04:39:00Z"
 }
