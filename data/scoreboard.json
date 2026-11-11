@@ -33,15 +33,15 @@
       "start": "2026-11-11T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:35 - 4th",
+      "detail": "3:54 - 4th",
       "period": 4,
-      "clock": "5:35",
+      "clock": "3:54",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 87,
+        "score": 89,
         "winner": false,
         "rec": "9-2"
       },
@@ -49,7 +49,7 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 111,
+        "score": 118,
         "winner": false,
         "rec": "8-2"
       },
@@ -62,7 +62,7 @@
       "completed": false,
       "detail": "Halftime",
       "period": 2,
-      "clock": "0.1",
+      "clock": "0.0",
       "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "PHX",
@@ -87,15 +87,15 @@
       "start": "2026-11-11T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:06 - 2nd",
+      "detail": "1:28 - 2nd",
       "period": 2,
-      "clock": "2:06",
+      "clock": "1:28",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 45,
+        "score": 50,
         "winner": false,
         "rec": "1-9"
       },
@@ -103,7 +103,7 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 57,
+        "score": 60,
         "winner": false,
         "rec": "4-6"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-11T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:52 - 1st",
+      "detail": "7:00 - 1st",
       "period": 1,
-      "clock": "8:52",
+      "clock": "7:00",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 7,
+        "score": 9,
         "winner": false,
         "rec": "1-9"
       },
@@ -130,7 +130,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 7,
+        "score": 15,
         "winner": false,
         "rec": "2-7"
       },
@@ -164,5 +164,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T03:14:40Z"
+  "updatedAt": "2026-11-11T03:18:42Z"
 }
