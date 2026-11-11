@@ -31,27 +31,27 @@
     {
       "id": "401909961",
       "start": "2026-11-11T01:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1:08 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1:08",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 95,
+        "score": 101,
         "winner": false,
-        "rec": "9-2"
+        "rec": "9-3"
       },
       "away": {
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 118,
-        "winner": false,
-        "rec": "8-2"
+        "score": 123,
+        "winner": true,
+        "rec": "9-2"
       },
       "seasonType": 2
     },
@@ -60,15 +60,15 @@
       "start": "2026-11-11T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:47 - 3rd",
+      "detail": "9:44 - 3rd",
       "period": 3,
-      "clock": "10:47",
+      "clock": "9:44",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 64,
+        "score": 72,
         "winner": false,
         "rec": "3-6"
       },
@@ -76,7 +76,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 49,
+        "score": 52,
         "winner": false,
         "rec": "2-7"
       },
@@ -114,9 +114,9 @@
       "start": "2026-11-11T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:08 - 1st",
+      "detail": "4:18 - 1st",
       "period": 1,
-      "clock": "5:08",
+      "clock": "4:18",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -130,7 +130,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 17,
+        "score": 24,
         "winner": false,
         "rec": "2-7"
       },
@@ -164,5 +164,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T03:22:43Z"
+  "updatedAt": "2026-11-11T03:26:45Z"
 }
