@@ -89,7 +89,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "UTAH",
@@ -114,9 +114,9 @@
       "start": "2026-11-11T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "25.6 - 3rd",
-      "period": 3,
-      "clock": "25.6",
+      "detail": "11:24 - 4th",
+      "period": 4,
+      "clock": "11:24",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -130,7 +130,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 82,
+        "score": 84,
         "winner": false,
         "rec": "2-7"
       },
@@ -164,5 +164,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T04:51:20Z"
+  "updatedAt": "2026-11-11T04:55:22Z"
 }
