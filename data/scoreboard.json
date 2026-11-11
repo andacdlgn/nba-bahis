@@ -141,15 +141,15 @@
       "start": "2026-11-11T04:00Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
+      "detail": "0.0 - 3rd",
+      "period": 3,
       "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 59,
+        "score": 64,
         "winner": false,
         "rec": "6-3"
       },
@@ -157,12 +157,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 59,
+        "score": 61,
         "winner": false,
         "rec": "8-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T05:27:34Z"
+  "updatedAt": "2026-11-11T05:31:36Z"
 }

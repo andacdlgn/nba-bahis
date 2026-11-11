@@ -223,7 +223,7 @@
       "altColor": "#ffd520",
       "wins": 3,
       "losses": 8,
-      "seed": 11,
+      "seed": 12,
       "gb": "6",
       "pct": 0.273,
       "streak": "L2",
@@ -411,15 +411,15 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png",
       "color": "#0150b5",
       "altColor": "#9ca0a3",
-      "wins": 2,
+      "wins": 3,
       "losses": 7,
-      "seed": 12,
-      "gb": "6",
-      "pct": 0.222,
-      "streak": "L4",
-      "last10": "2-7",
+      "seed": 11,
+      "gb": "5.5",
+      "pct": 0.3,
+      "streak": "W1",
+      "last10": "3-7",
       "home": "0-4",
-      "road": "2-3"
+      "road": "3-3"
     },
     {
       "id": "20",
@@ -507,13 +507,13 @@
       "color": "#5a2d81",
       "altColor": "#6a7a82",
       "wins": 1,
-      "losses": 9,
+      "losses": 10,
       "seed": 14,
-      "gb": "8",
-      "pct": 0.1,
-      "streak": "L3",
+      "gb": "8.5",
+      "pct": 0.091,
+      "streak": "L4",
       "last10": "1-9",
-      "home": "0-5",
+      "home": "0-6",
       "road": "1-4"
     },
     {
@@ -574,5 +574,5 @@
       "road": "2-5"
     }
   ],
-  "updatedAt": "2026-11-11T04:47:18Z"
+  "updatedAt": "2026-11-11T05:31:36Z"
 }
