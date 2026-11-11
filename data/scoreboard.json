@@ -87,9 +87,9 @@
       "start": "2026-11-11T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "18.7 - 4th",
+      "detail": "9.3 - 4th",
       "period": 4,
-      "clock": "18.7",
+      "clock": "9.3",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
@@ -103,7 +103,7 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 112,
+        "score": 115,
         "winner": false,
         "rec": "4-6"
       },
@@ -114,9 +114,9 @@
       "start": "2026-11-11T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:28 - 3rd",
+      "detail": "4:31 - 3rd",
       "period": 3,
-      "clock": "6:28",
+      "clock": "4:31",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -130,7 +130,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 68,
+        "score": 73,
         "winner": false,
         "rec": "2-7"
       },
@@ -141,15 +141,15 @@
       "start": "2026-11-11T04:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:33 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "1:33",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 22,
+        "score": 26,
         "winner": false,
         "rec": "6-3"
       },
@@ -157,12 +157,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 23,
+        "score": 27,
         "winner": false,
         "rec": "8-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T04:39:15Z"
+  "updatedAt": "2026-11-11T04:43:17Z"
 }
