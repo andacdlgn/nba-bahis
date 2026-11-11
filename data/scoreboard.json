@@ -141,9 +141,9 @@
       "start": "2026-11-11T04:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:34 - 4th",
+      "detail": "1:32 - 4th",
       "period": 4,
-      "clock": "4:34",
+      "clock": "1:32",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
@@ -157,12 +157,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 96,
+        "score": 100,
         "winner": false,
         "rec": "8-2"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T06:23:57Z"
+  "updatedAt": "2026-11-11T06:27:58Z"
 }
