@@ -33,10 +33,10 @@
       "start": "2026-11-11T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.1",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "10:51 - 4th",
+      "period": 4,
+      "clock": "10:51",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHI",
         "name": "76ers",
@@ -49,7 +49,7 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 91,
+        "score": 94,
         "winner": false,
         "rec": "8-2"
       },
@@ -60,9 +60,9 @@
       "start": "2026-11-11T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:34 - 2nd",
+      "detail": "3:25 - 2nd",
       "period": 2,
-      "clock": "5:34",
+      "clock": "3:25",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
@@ -76,7 +76,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 34,
+        "score": 41,
         "winner": false,
         "rec": "2-7"
       },
@@ -87,9 +87,9 @@
       "start": "2026-11-11T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:51 - 2nd",
+      "detail": "8:13 - 2nd",
       "period": 2,
-      "clock": "8:51",
+      "clock": "8:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
@@ -103,7 +103,7 @@
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 38,
+        "score": 41,
         "winner": false,
         "rec": "4-6"
       },
@@ -164,5 +164,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-11T02:54:32Z"
+  "updatedAt": "2026-11-11T02:58:33Z"
 }
