@@ -195,15 +195,15 @@
       "start": "2026-11-12T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:30 - 4th",
+      "detail": "8:19 - 4th",
       "period": 4,
-      "clock": "8:30",
+      "clock": "8:19",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 91,
+        "score": 93,
         "winner": false,
         "rec": "1-10"
       },
@@ -211,7 +211,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 93,
+        "score": 95,
         "winner": false,
         "rec": "3-7"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-12T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "8:01 - 3rd",
+      "detail": "6:26 - 3rd",
       "period": 3,
-      "clock": "8:01",
+      "clock": "6:26",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 67,
+        "score": 71,
         "winner": false,
         "rec": "8-3"
       },
@@ -238,7 +238,7 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 62,
+        "score": 65,
         "winner": false,
         "rec": "8-3"
       },
@@ -249,10 +249,10 @@
       "start": "2026-11-12T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "0.0 - 2nd",
+      "detail": "Halftime",
       "period": 2,
       "clock": "0.0",
-      "typeName": "STATUS_IN_PROGRESS",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "POR",
         "name": "Trail Blazers",
@@ -272,5 +272,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-12T04:06:52Z"
+  "updatedAt": "2026-11-12T04:10:54Z"
 }
