@@ -222,15 +222,15 @@
       "start": "2026-11-12T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "10:15 - 4th",
+      "period": 4,
+      "clock": "10:15",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 85,
+        "score": 88,
         "winner": false,
         "rec": "8-3"
       },
@@ -238,7 +238,7 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 79,
+        "score": 82,
         "winner": false,
         "rec": "8-3"
       },
@@ -249,9 +249,9 @@
       "start": "2026-11-12T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:37 - 3rd",
+      "detail": "3:09 - 3rd",
       "period": 3,
-      "clock": "4:37",
+      "clock": "3:09",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
@@ -265,12 +265,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 71,
+        "score": 76,
         "winner": false,
         "rec": "8-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-12T04:39:05Z"
+  "updatedAt": "2026-11-12T04:43:07Z"
 }
