@@ -195,15 +195,15 @@
       "start": "2026-11-12T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:27 - 4th",
+      "detail": "22.0 - 4th",
       "period": 4,
-      "clock": "1:27",
+      "clock": "22.0",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 103,
+        "score": 108,
         "winner": false,
         "rec": "1-10"
       },
@@ -211,7 +211,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 118,
+        "score": 123,
         "winner": false,
         "rec": "3-7"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-12T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "40.2 - 3rd",
+      "detail": "21.0 - 3rd",
       "period": 3,
-      "clock": "40.2",
+      "clock": "21.0",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 82,
+        "score": 84,
         "winner": false,
         "rec": "8-3"
       },
@@ -249,9 +249,9 @@
       "start": "2026-11-12T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:16 - 3rd",
+      "detail": "8:33 - 3rd",
       "period": 3,
-      "clock": "9:16",
+      "clock": "8:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "POR",
@@ -265,12 +265,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 56,
+        "score": 58,
         "winner": false,
         "rec": "8-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-12T04:27:00Z"
+  "updatedAt": "2026-11-12T04:31:02Z"
 }
