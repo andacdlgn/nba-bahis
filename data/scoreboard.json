@@ -87,15 +87,15 @@
       "start": "2026-11-13T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:40 - 4th",
+      "detail": "40.7 - 4th",
       "period": 4,
-      "clock": "3:40",
+      "clock": "40.7",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 92,
+        "score": 94,
         "winner": false,
         "rec": "4-6"
       },
@@ -103,12 +103,12 @@
         "abbr": "CHA",
         "name": "Hornets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "score": 86,
+        "score": 91,
         "winner": false,
         "rec": "4-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-13T04:15:00Z"
+  "updatedAt": "2026-11-13T04:19:02Z"
 }
