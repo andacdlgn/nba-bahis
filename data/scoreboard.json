@@ -8,7 +8,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "PHI",
@@ -35,7 +35,7 @@
       "completed": true,
       "detail": "Final/2OT",
       "period": 6,
-      "clock": "0.0",
+      "clock": "5:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "WSH",
@@ -87,15 +87,15 @@
       "start": "2026-11-13T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:18 - 3rd",
+      "detail": "4:30 - 3rd",
       "period": 3,
-      "clock": "7:18",
+      "clock": "4:30",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 63,
+        "score": 68,
         "winner": false,
         "rec": "4-6"
       },
@@ -103,12 +103,12 @@
         "abbr": "CHA",
         "name": "Hornets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "score": 65,
+        "score": 67,
         "winner": false,
         "rec": "4-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-13T03:34:45Z"
+  "updatedAt": "2026-11-13T03:38:46Z"
 }
