@@ -60,15 +60,15 @@
       "start": "2026-11-14T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:18 - 4th",
+      "detail": "1:10 - 4th",
       "period": 4,
-      "clock": "1:18",
+      "clock": "1:10",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 122,
+        "score": 124,
         "winner": false,
         "rec": "5-6"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-14T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:33 - OT",
+      "detail": "2:51 - OT",
       "period": 5,
-      "clock": "4:33",
+      "clock": "2:51",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 110,
+        "score": 113,
         "winner": false,
         "rec": "1-9"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-14T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:13 - 4th",
+      "detail": "44.1 - 4th",
       "period": 4,
-      "clock": "1:13",
+      "clock": "44.1",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 105,
+        "score": 109,
         "winner": false,
         "rec": "4-8"
       },
@@ -130,7 +130,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 136,
+        "score": 137,
         "winner": false,
         "rec": "7-4"
       },
@@ -141,15 +141,15 @@
       "start": "2026-11-14T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "10:14 - 4th",
+      "period": 4,
+      "clock": "10:14",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 92,
+        "score": 99,
         "winner": false,
         "rec": "9-3"
       },
@@ -157,7 +157,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 89,
+        "score": 91,
         "winner": false,
         "rec": "1-11"
       },
@@ -168,15 +168,15 @@
       "start": "2026-11-14T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:47 - 2nd",
+      "detail": "6:08 - 2nd",
       "period": 2,
-      "clock": "6:47",
+      "clock": "6:08",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 45,
+        "score": 46,
         "winner": false,
         "rec": "10-2"
       },
@@ -184,7 +184,7 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 22,
+        "score": 23,
         "winner": false,
         "rec": "8-4"
       },
@@ -195,15 +195,15 @@
       "start": "2026-11-14T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:00 - 1st",
+      "detail": "5.5 - 1st",
       "period": 1,
-      "clock": "2:00",
+      "clock": "5.5",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 21,
+        "score": 25,
         "winner": false,
         "rec": "1-10"
       },
@@ -211,7 +211,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 23,
+        "score": 32,
         "winner": false,
         "rec": "8-3"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-14T03:32:09Z"
+  "updatedAt": "2026-11-14T03:36:10Z"
 }
