@@ -141,9 +141,9 @@
       "start": "2026-11-14T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "12.0 - 4th",
+      "detail": "9.7 - 4th",
       "period": 4,
-      "clock": "12.0",
+      "clock": "9.7",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
@@ -195,15 +195,15 @@
       "start": "2026-11-14T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:16 - 2nd",
+      "detail": "1:27 - 2nd",
       "period": 2,
-      "clock": "3:16",
+      "clock": "1:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 48,
+        "score": 52,
         "winner": false,
         "rec": "1-10"
       },
@@ -211,7 +211,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 55,
+        "score": 61,
         "winner": false,
         "rec": "8-3"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-14T03:30Z",
       "state": "in",
       "completed": false,
-      "detail": "2:24 - 1st",
+      "detail": "43.7 - 1st",
       "period": 1,
-      "clock": "2:24",
+      "clock": "43.7",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 27,
+        "score": 31,
         "winner": false,
         "rec": "2-8"
       },
@@ -238,12 +238,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 24,
+        "score": 26,
         "winner": false,
         "rec": "8-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-14T04:04:20Z"
+  "updatedAt": "2026-11-14T04:08:22Z"
 }
