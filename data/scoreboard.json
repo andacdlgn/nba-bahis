@@ -141,15 +141,15 @@
       "start": "2026-11-14T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:25 - 4th",
+      "detail": "12.0 - 4th",
       "period": 4,
-      "clock": "1:25",
+      "clock": "12.0",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 121,
+        "score": 123,
         "winner": false,
         "rec": "9-3"
       },
@@ -157,7 +157,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 116,
+        "score": 118,
         "winner": false,
         "rec": "1-11"
       },
@@ -195,15 +195,15 @@
       "start": "2026-11-14T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:44 - 2nd",
+      "detail": "3:16 - 2nd",
       "period": 2,
-      "clock": "4:44",
+      "clock": "3:16",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 42,
+        "score": 48,
         "winner": false,
         "rec": "1-10"
       },
@@ -211,7 +211,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 52,
+        "score": 55,
         "winner": false,
         "rec": "8-3"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-14T03:30Z",
       "state": "in",
       "completed": false,
-      "detail": "4:07 - 1st",
+      "detail": "2:24 - 1st",
       "period": 1,
-      "clock": "4:07",
+      "clock": "2:24",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 22,
+        "score": 27,
         "winner": false,
         "rec": "2-8"
       },
@@ -238,12 +238,12 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 20,
+        "score": 24,
         "winner": false,
         "rec": "8-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-14T04:00:19Z"
+  "updatedAt": "2026-11-14T04:04:20Z"
 }
