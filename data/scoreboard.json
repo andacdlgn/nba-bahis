@@ -168,15 +168,15 @@
       "start": "2026-11-14T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "10:17 - 4th",
+      "detail": "7:37 - 4th",
       "period": 4,
-      "clock": "10:17",
+      "clock": "7:37",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 99,
+        "score": 105,
         "winner": false,
         "rec": "10-2"
       },
@@ -184,7 +184,7 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 62,
+        "score": 69,
         "winner": false,
         "rec": "8-4"
       },
@@ -195,15 +195,15 @@
       "start": "2026-11-14T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:26 - 3rd",
+      "detail": "3:39 - 3rd",
       "period": 3,
-      "clock": "6:26",
+      "clock": "3:39",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 69,
+        "score": 75,
         "winner": false,
         "rec": "1-10"
       },
@@ -211,7 +211,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 79,
+        "score": 86,
         "winner": false,
         "rec": "8-3"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-14T03:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:08 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "1:08",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 55,
+        "score": 57,
         "winner": false,
         "rec": "2-8"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-14T04:40:34Z"
+  "updatedAt": "2026-11-14T04:44:35Z"
 }
