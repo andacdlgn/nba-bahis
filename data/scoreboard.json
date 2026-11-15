@@ -33,15 +33,15 @@
       "start": "2026-11-15T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:25 - 4th",
+      "detail": "1.2 - 4th",
       "period": 4,
-      "clock": "1:25",
+      "clock": "1.2",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
         "name": "Cavaliers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "score": 124,
+        "score": 127,
         "winner": false,
         "rec": "6-7"
       },
@@ -49,7 +49,7 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 112,
+        "score": 117,
         "winner": false,
         "rec": "7-5"
       },
@@ -60,15 +60,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:53 - 3rd",
+      "detail": "3:46 - 3rd",
       "period": 3,
-      "clock": "5:53",
+      "clock": "3:46",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 86,
+        "score": 90,
         "winner": false,
         "rec": "6-6"
       },
@@ -76,7 +76,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 76,
+        "score": 78,
         "winner": false,
         "rec": "8-3"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "25.5 - 3rd",
-      "period": 3,
-      "clock": "25.5",
+      "detail": "11:09 - 4th",
+      "period": 4,
+      "clock": "11:09",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 101,
+        "score": 105,
         "winner": false,
         "rec": "8-4"
       },
@@ -103,7 +103,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 81,
+        "score": 84,
         "winner": false,
         "rec": "3-8"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:56 - 4th",
+      "detail": "8:47 - 4th",
       "period": 4,
-      "clock": "10:56",
+      "clock": "8:47",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 82,
+        "score": 88,
         "winner": false,
         "rec": "9-3"
       },
@@ -130,12 +130,12 @@
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 92,
+        "score": 99,
         "winner": false,
         "rec": "2-9"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T02:56:17Z"
+  "updatedAt": "2026-11-15T03:00:18Z"
 }
