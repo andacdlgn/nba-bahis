@@ -6,15 +6,15 @@
       "start": "2026-11-15T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:36 - 4th",
+      "detail": "5:01 - 4th",
       "period": 4,
-      "clock": "6:36",
+      "clock": "5:01",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 87,
+        "score": 93,
         "winner": false,
         "rec": "4-9"
       },
@@ -22,7 +22,7 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 102,
+        "score": 104,
         "winner": false,
         "rec": "6-4"
       },
@@ -33,15 +33,15 @@
       "start": "2026-11-15T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:17 - 3rd",
+      "detail": "3:19 - 3rd",
       "period": 3,
-      "clock": "5:17",
+      "clock": "3:19",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
         "name": "Cavaliers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "score": 92,
+        "score": 95,
         "winner": false,
         "rec": "6-7"
       },
@@ -49,7 +49,7 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 74,
+        "score": 80,
         "winner": false,
         "rec": "7-5"
       },
@@ -60,15 +60,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:59 - 2nd",
+      "detail": "1:33 - 2nd",
       "period": 2,
-      "clock": "2:59",
+      "clock": "1:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 55,
+        "score": 60,
         "winner": false,
         "rec": "6-6"
       },
@@ -76,7 +76,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 52,
+        "score": 56,
         "winner": false,
         "rec": "8-3"
       },
@@ -137,5 +137,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T02:12:02Z"
+  "updatedAt": "2026-11-15T02:16:03Z"
 }
