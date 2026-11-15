@@ -60,15 +60,15 @@
       "start": "2026-11-15T21:30Z",
       "state": "in",
       "completed": false,
-      "detail": "7:00 - 2nd",
+      "detail": "5:28 - 2nd",
       "period": 2,
-      "clock": "7:00",
+      "clock": "5:28",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 36,
+        "score": 39,
         "winner": false,
         "rec": "3-8"
       },
@@ -76,7 +76,7 @@
         "abbr": "CHA",
         "name": "Hornets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "score": 32,
+        "score": 40,
         "winner": false,
         "rec": "4-8"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-15T22:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:49 - 1st",
+      "detail": "4:52 - 1st",
       "period": 1,
-      "clock": "6:49",
+      "clock": "4:52",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 16,
+        "score": 18,
         "winner": false,
         "rec": "1-12"
       },
@@ -103,7 +103,7 @@
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 14,
+        "score": 18,
         "winner": false,
         "rec": "11-2"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T22:21:46Z"
+  "updatedAt": "2026-11-15T22:25:47Z"
 }
