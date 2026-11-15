@@ -6,15 +6,15 @@
       "start": "2026-11-15T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "6:36 - 4th",
+      "period": 4,
+      "clock": "6:36",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 82,
+        "score": 87,
         "winner": false,
         "rec": "4-9"
       },
@@ -22,7 +22,7 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 86,
+        "score": 102,
         "winner": false,
         "rec": "6-4"
       },
@@ -33,15 +33,15 @@
       "start": "2026-11-15T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "9:27 - 3rd",
+      "detail": "5:17 - 3rd",
       "period": 3,
-      "clock": "9:27",
+      "clock": "5:17",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
         "name": "Cavaliers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "score": 79,
+        "score": 92,
         "winner": false,
         "rec": "6-7"
       },
@@ -49,7 +49,7 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 58,
+        "score": 74,
         "winner": false,
         "rec": "7-5"
       },
@@ -60,15 +60,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:17 - 2nd",
+      "detail": "2:59 - 2nd",
       "period": 2,
-      "clock": "7:17",
+      "clock": "2:59",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 47,
+        "score": 55,
         "winner": false,
         "rec": "6-6"
       },
@@ -76,7 +76,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 45,
+        "score": 52,
         "winner": false,
         "rec": "8-3"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:02 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "6:02",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 55,
+        "score": 71,
         "winner": false,
         "rec": "8-4"
       },
@@ -103,7 +103,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 42,
+        "score": 54,
         "winner": false,
         "rec": "3-8"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:16 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "3:16",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 37,
+        "score": 45,
         "winner": false,
         "rec": "9-3"
       },
@@ -130,12 +130,12 @@
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 46,
+        "score": 58,
         "winner": false,
         "rec": "2-9"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T01:57:01Z"
+  "updatedAt": "2026-11-15T02:12:02Z"
 }
