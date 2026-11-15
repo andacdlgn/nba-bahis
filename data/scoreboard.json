@@ -89,7 +89,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MEM",
@@ -116,7 +116,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIN",
@@ -137,5 +137,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T03:48:36Z"
+  "updatedAt": "2026-11-15T09:28:38Z"
 }
