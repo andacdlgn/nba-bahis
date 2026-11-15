@@ -33,9 +33,9 @@
       "start": "2026-11-15T00:30Z",
       "state": "in",
       "completed": false,
-      "detail": "6:57 - 4th",
+      "detail": "6:41 - 4th",
       "period": 4,
-      "clock": "6:57",
+      "clock": "6:41",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CLE",
@@ -60,9 +60,9 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:10 - 3rd",
+      "detail": "9:04 - 3rd",
       "period": 3,
-      "clock": "10:10",
+      "clock": "9:04",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
@@ -76,7 +76,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 66,
+        "score": 70,
         "winner": false,
         "rec": "8-3"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:04 - 3rd",
+      "detail": "5:49 - 3rd",
       "period": 3,
-      "clock": "7:04",
+      "clock": "5:49",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 81,
+        "score": 83,
         "winner": false,
         "rec": "8-4"
       },
@@ -103,7 +103,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 67,
+        "score": 72,
         "winner": false,
         "rec": "3-8"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:25 - 3rd",
+      "detail": "3:07 - 3rd",
       "period": 3,
-      "clock": "4:25",
+      "clock": "3:07",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 66,
+        "score": 69,
         "winner": false,
         "rec": "9-3"
       },
@@ -130,12 +130,12 @@
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 72,
+        "score": 77,
         "winner": false,
         "rec": "2-9"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T02:40:12Z"
+  "updatedAt": "2026-11-15T02:44:13Z"
 }
