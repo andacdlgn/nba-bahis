@@ -60,15 +60,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:41 - 4th",
+      "detail": "6:13 - 4th",
       "period": 4,
-      "clock": "7:41",
+      "clock": "6:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 107,
+        "score": 112,
         "winner": false,
         "rec": "6-6"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:15 - 4th",
+      "detail": "2:54 - 4th",
       "period": 4,
-      "clock": "4:15",
+      "clock": "2:54",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 119,
+        "score": 125,
         "winner": false,
         "rec": "8-4"
       },
@@ -103,7 +103,7 @@
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 106,
+        "score": 108,
         "winner": false,
         "rec": "3-8"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-15T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:35 - 4th",
+      "detail": "52.2 - 4th",
       "period": 4,
-      "clock": "1:35",
+      "clock": "52.2",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 104,
+        "score": 106,
         "winner": false,
         "rec": "9-3"
       },
@@ -130,12 +130,12 @@
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 113,
+        "score": 117,
         "winner": false,
         "rec": "2-9"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T03:20:27Z"
+  "updatedAt": "2026-11-15T03:24:28Z"
 }
