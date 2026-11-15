@@ -33,9 +33,9 @@
       "start": "2026-11-15T21:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:57 - 1st",
+      "detail": "6:29 - 1st",
       "period": 1,
-      "clock": "6:57",
+      "clock": "6:29",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "PHX",
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-15T21:21:22Z"
+  "updatedAt": "2026-11-15T21:25:23Z"
 }
