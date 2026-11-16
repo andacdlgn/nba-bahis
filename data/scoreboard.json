@@ -85,27 +85,27 @@
     {
       "id": "401909988",
       "start": "2026-11-15T22:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "47.3 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "47.3",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
         "score": 102,
         "winner": false,
-        "rec": "1-12"
+        "rec": "1-13"
       },
       "away": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 108,
-        "winner": false,
-        "rec": "11-2"
+        "score": 110,
+        "winner": true,
+        "rec": "12-2"
       },
       "seasonType": 2
     },
@@ -114,15 +114,15 @@
       "start": "2026-11-15T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:05 - 3rd",
+      "detail": "7:27 - 3rd",
       "period": 3,
-      "clock": "10:05",
+      "clock": "7:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 73,
+        "score": 83,
         "winner": false,
         "rec": "10-2"
       },
@@ -130,7 +130,7 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 42,
+        "score": 51,
         "winner": false,
         "rec": "7-6"
       },
@@ -168,15 +168,15 @@
       "start": "2026-11-16T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:37 - 1st",
+      "detail": "6:03 - 1st",
       "period": 1,
-      "clock": "6:37",
+      "clock": "6:03",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 13,
+        "score": 16,
         "winner": false,
         "rec": "4-9"
       },
@@ -184,7 +184,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 12,
+        "score": 17,
         "winner": false,
         "rec": "10-3"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-16T00:18:37Z"
+  "updatedAt": "2026-11-16T00:22:38Z"
 }
