@@ -222,9 +222,9 @@
       "start": "2026-11-16T02:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2.6 - 3rd",
-      "period": 3,
-      "clock": "2.6",
+      "detail": "11:42 - 4th",
+      "period": 4,
+      "clock": "11:42",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-16T03:48:10Z"
+  "updatedAt": "2026-11-16T03:52:12Z"
 }
