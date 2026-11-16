@@ -141,15 +141,15 @@
       "start": "2026-11-15T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "27.9 - OT",
+      "detail": "15.4 - OT",
       "period": 5,
-      "clock": "27.9",
+      "clock": "15.4",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "TOR",
         "name": "Raptors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-        "score": 106,
+        "score": 108,
         "winner": false,
         "rec": "5-7"
       },
@@ -157,7 +157,7 @@
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 109,
+        "score": 111,
         "winner": false,
         "rec": "6-6"
       },
@@ -168,15 +168,15 @@
       "start": "2026-11-16T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:42 - 3rd",
+      "detail": "1:24 - 3rd",
       "period": 3,
-      "clock": "1:42",
+      "clock": "1:24",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 79,
+        "score": 81,
         "winner": false,
         "rec": "4-9"
       },
@@ -195,15 +195,15 @@
       "start": "2026-11-16T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:37 - 2nd",
+      "detail": "3:47 - 2nd",
       "period": 2,
-      "clock": "6:37",
+      "clock": "3:47",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIL",
         "name": "Bucks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-        "score": 47,
+        "score": 51,
         "winner": false,
         "rec": "1-12"
       },
@@ -211,7 +211,7 @@
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 36,
+        "score": 42,
         "winner": false,
         "rec": "7-6"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-16T01:51:11Z"
+  "updatedAt": "2026-11-16T01:55:12Z"
 }
