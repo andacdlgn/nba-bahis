@@ -4,98 +4,98 @@
     {
       "id": "401909994",
       "start": "2026-11-17T00:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/16 - 7:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 0,
+        "score": 105,
         "winner": false,
-        "rec": "11-2"
+        "rec": "11-3"
       },
       "away": {
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 0,
-        "winner": false,
-        "rec": "5-7"
+        "score": 115,
+        "winner": true,
+        "rec": "6-7"
       },
       "seasonType": 2
     },
     {
       "id": "401909995",
       "start": "2026-11-17T00:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/16 - 7:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "CLE",
         "name": "Cavaliers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-        "score": 0,
-        "winner": false,
-        "rec": "7-7"
+        "score": 126,
+        "winner": true,
+        "rec": "8-7"
       },
       "away": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 0,
+        "score": 115,
         "winner": false,
-        "rec": "3-9"
+        "rec": "3-10"
       },
       "seasonType": 2
     },
     {
       "id": "401909996",
       "start": "2026-11-17T00:00Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/16 - 7:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 0,
+        "score": 120,
         "winner": false,
-        "rec": "4-10"
+        "rec": "4-11"
       },
       "away": {
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 0,
-        "winner": false,
-        "rec": "9-4"
+        "score": 136,
+        "winner": true,
+        "rec": "10-4"
       },
       "seasonType": 2
     },
     {
       "id": "401909997",
       "start": "2026-11-17T00:30Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/16 - 7:30 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "5:01 - 4th",
+      "period": 4,
+      "clock": "5:01",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 0,
+        "score": 108,
         "winner": false,
         "rec": "3-9"
       },
@@ -103,7 +103,7 @@
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 0,
+        "score": 119,
         "winner": false,
         "rec": "11-3"
       },
@@ -112,44 +112,44 @@
     {
       "id": "401909998",
       "start": "2026-11-17T00:30Z",
-      "state": "pre",
-      "completed": false,
-      "detail": "11/16 - 7:30 PM EST",
-      "period": 0,
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
       "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 0,
-        "winner": false,
-        "rec": "7-6"
+        "score": 128,
+        "winner": true,
+        "rec": "8-6"
       },
       "away": {
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 0,
+        "score": 110,
         "winner": false,
-        "rec": "11-3"
+        "rec": "11-4"
       },
       "seasonType": 2
     },
     {
       "id": "401909999",
       "start": "2026-11-17T01:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/16 - 8:00 PM EST",
-      "period": 0,
+      "detail": "End of 3rd",
+      "period": 3,
       "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 0,
+        "score": 87,
         "winner": false,
         "rec": "9-4"
       },
@@ -157,7 +157,7 @@
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 0,
+        "score": 73,
         "winner": false,
         "rec": "9-3"
       },
@@ -166,17 +166,17 @@
     {
       "id": "401910000",
       "start": "2026-11-17T01:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/16 - 8:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "32.4 - 3rd",
+      "period": 3,
+      "clock": "32.4",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 0,
+        "score": 92,
         "winner": false,
         "rec": "4-10"
       },
@@ -184,7 +184,7 @@
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 0,
+        "score": 63,
         "winner": false,
         "rec": "8-5"
       },
@@ -193,17 +193,17 @@
     {
       "id": "401910001",
       "start": "2026-11-17T02:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/16 - 9:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "5:12 - 2nd",
+      "period": 2,
+      "clock": "5:12",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 0,
+        "score": 41,
         "winner": false,
         "rec": "7-4"
       },
@@ -211,12 +211,12 @@
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 0,
+        "score": 41,
         "winner": false,
         "rec": "5-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-16T18:35:00Z"
+  "updatedAt": "2026-11-17T02:56:17Z"
 }
