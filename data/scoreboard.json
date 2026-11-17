@@ -85,27 +85,27 @@
     {
       "id": "401909997",
       "start": "2026-11-17T00:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "5:01 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "5:01",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "BKN",
         "name": "Nets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-        "score": 108,
+        "score": 123,
         "winner": false,
-        "rec": "3-9"
+        "rec": "3-10"
       },
       "away": {
         "abbr": "PHI",
         "name": "76ers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-        "score": 119,
-        "winner": false,
-        "rec": "11-3"
+        "score": 135,
+        "winner": true,
+        "rec": "12-3"
       },
       "seasonType": 2
     },
@@ -116,7 +116,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIA",
@@ -139,84 +139,84 @@
     {
       "id": "401909999",
       "start": "2026-11-17T01:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 87,
-        "winner": false,
-        "rec": "9-4"
+        "score": 106,
+        "winner": true,
+        "rec": "10-4"
       },
       "away": {
         "abbr": "POR",
         "name": "Trail Blazers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-        "score": 73,
+        "score": 98,
         "winner": false,
-        "rec": "9-3"
+        "rec": "9-4"
       },
       "seasonType": 2
     },
     {
       "id": "401910000",
       "start": "2026-11-17T01:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "32.4 - 3rd",
-      "period": 3,
-      "clock": "32.4",
-      "typeName": "STATUS_IN_PROGRESS",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 92,
-        "winner": false,
-        "rec": "4-10"
+        "score": 115,
+        "winner": true,
+        "rec": "5-10"
       },
       "away": {
         "abbr": "GS",
         "name": "Warriors",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-        "score": 63,
+        "score": 94,
         "winner": false,
-        "rec": "8-5"
+        "rec": "8-6"
       },
       "seasonType": 2
     },
     {
       "id": "401910001",
       "start": "2026-11-17T02:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "5:12 - 2nd",
-      "period": 2,
-      "clock": "5:12",
-      "typeName": "STATUS_IN_PROGRESS",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 41,
+        "score": 105,
         "winner": false,
-        "rec": "7-4"
+        "rec": "7-5"
       },
       "away": {
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 41,
-        "winner": false,
-        "rec": "5-7"
+        "score": 117,
+        "winner": true,
+        "rec": "6-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-17T02:56:17Z"
+  "updatedAt": "2026-11-17T04:49:38Z"
 }
