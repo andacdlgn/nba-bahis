@@ -112,19 +112,19 @@
     {
       "id": "401910005",
       "start": "2026-11-18T04:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "11.6 - OT",
+      "state": "post",
+      "completed": true,
+      "detail": "Final/OT",
       "period": 5,
-      "clock": "11.6",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "5:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 117,
-        "winner": false,
-        "rec": "12-2"
+        "score": 118,
+        "winner": true,
+        "rec": "13-2"
       },
       "away": {
         "abbr": "CHA",
@@ -132,10 +132,10 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
         "score": 114,
         "winner": false,
-        "rec": "4-9"
+        "rec": "4-10"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-18T06:59:50Z"
+  "updatedAt": "2026-11-18T07:03:51Z"
 }
