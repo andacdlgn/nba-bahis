@@ -87,15 +87,15 @@
       "start": "2026-11-18T03:30Z",
       "state": "in",
       "completed": false,
-      "detail": "5:52 - 1st",
+      "detail": "3:32 - 1st",
       "period": 1,
-      "clock": "5:52",
+      "clock": "3:32",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 14,
+        "score": 22,
         "winner": false,
         "rec": "4-8"
       },
@@ -103,7 +103,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 14,
+        "score": 21,
         "winner": false,
         "rec": "1-13"
       },
@@ -137,5 +137,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-18T03:54:37Z"
+  "updatedAt": "2026-11-18T03:58:39Z"
 }
