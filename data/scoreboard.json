@@ -114,10 +114,10 @@
       "start": "2026-11-18T04:00Z",
       "state": "in",
       "completed": false,
-      "detail": "22.2 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "22.2",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.1",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
@@ -137,5 +137,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-18T04:42:58Z"
+  "updatedAt": "2026-11-18T04:47:00Z"
 }
