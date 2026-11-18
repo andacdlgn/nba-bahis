@@ -114,9 +114,9 @@
       "start": "2026-11-18T04:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:20 - OT",
+      "detail": "33.4 - OT",
       "period": 5,
-      "clock": "2:20",
+      "clock": "33.4",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
@@ -137,5 +137,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-18T06:47:45Z"
+  "updatedAt": "2026-11-18T06:51:47Z"
 }
