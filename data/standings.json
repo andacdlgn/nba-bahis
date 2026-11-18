@@ -241,13 +241,13 @@
       "color": "#12173f",
       "altColor": "#c8102e",
       "wins": 4,
-      "losses": 8,
+      "losses": 9,
       "seed": 13,
-      "gb": "7",
-      "pct": 0.333,
-      "streak": "W2",
+      "gb": "7.5",
+      "pct": 0.308,
+      "streak": "L1",
       "last10": "3-7",
-      "home": "4-3",
+      "home": "4-4",
       "road": "0-5"
     },
     {
@@ -508,7 +508,7 @@
       "altColor": "#6a7a82",
       "wins": 1,
       "losses": 12,
-      "seed": 14,
+      "seed": 15,
       "gb": "10.5",
       "pct": 0.077,
       "streak": "L6",
@@ -544,15 +544,15 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png",
       "color": "#4e008e",
       "altColor": "#79a3dc",
-      "wins": 1,
+      "wins": 2,
       "losses": 13,
-      "seed": 15,
-      "gb": "11",
-      "pct": 0.071,
-      "streak": "L12",
-      "last10": "0-10",
+      "seed": 14,
+      "gb": "10.5",
+      "pct": 0.133,
+      "streak": "W1",
+      "last10": "1-9",
       "home": "1-7",
-      "road": "0-6"
+      "road": "1-6"
     },
     {
       "id": "27",
@@ -574,5 +574,5 @@
       "road": "2-6"
     }
   ],
-  "updatedAt": "2026-11-18T03:54:37Z"
+  "updatedAt": "2026-11-18T05:51:25Z"
 }
