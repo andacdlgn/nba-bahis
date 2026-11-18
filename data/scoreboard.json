@@ -114,15 +114,15 @@
       "start": "2026-11-18T04:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:36 - OT",
+      "detail": "2:20 - OT",
       "period": 5,
-      "clock": "4:36",
+      "clock": "2:20",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 111,
+        "score": 115,
         "winner": false,
         "rec": "12-2"
       },
@@ -130,12 +130,12 @@
         "abbr": "CHA",
         "name": "Hornets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-        "score": 111,
+        "score": 114,
         "winner": false,
         "rec": "4-9"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-18T06:43:43Z"
+  "updatedAt": "2026-11-18T06:47:45Z"
 }
