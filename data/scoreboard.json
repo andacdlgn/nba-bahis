@@ -247,19 +247,19 @@
     {
       "id": "401910015",
       "start": "2026-11-19T02:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "6.5 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "6.5",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
         "score": 105,
-        "winner": false,
-        "rec": "7-5"
+        "winner": true,
+        "rec": "8-5"
       },
       "away": {
         "abbr": "BOS",
@@ -267,7 +267,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
         "score": 101,
         "winner": false,
-        "rec": "11-3"
+        "rec": "11-4"
       },
       "seasonType": 2
     },
@@ -276,9 +276,9 @@
       "start": "2026-11-19T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "7:28 - 4th",
+      "detail": "6:35 - 4th",
       "period": 4,
-      "clock": "7:28",
+      "clock": "6:35",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
@@ -292,7 +292,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 88,
+        "score": 91,
         "winner": false,
         "rec": "2-13"
       },
@@ -303,15 +303,15 @@
       "start": "2026-11-19T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "2:13 - 4th",
+      "detail": "0.1 - 4th",
       "period": 4,
-      "clock": "2:13",
+      "clock": "0.1",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 101,
+        "score": 107,
         "winner": false,
         "rec": "1-12"
       },
@@ -319,12 +319,12 @@
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 123,
+        "score": 128,
         "winner": false,
         "rec": "6-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-19T05:13:28Z"
+  "updatedAt": "2026-11-19T05:17:30Z"
 }
