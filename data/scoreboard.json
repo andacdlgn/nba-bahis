@@ -249,10 +249,10 @@
       "start": "2026-11-19T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "11:32 - 3rd",
+      "period": 3,
+      "clock": "11:32",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
@@ -265,7 +265,7 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 61,
+        "score": 63,
         "winner": false,
         "rec": "11-3"
       },
@@ -276,9 +276,9 @@
       "start": "2026-11-19T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "3:17 - 2nd",
+      "detail": "1:10 - 2nd",
       "period": 2,
-      "clock": "3:17",
+      "clock": "1:10",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
@@ -292,7 +292,7 @@
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 49,
+        "score": 54,
         "winner": false,
         "rec": "2-13"
       },
@@ -326,5 +326,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-19T04:05:04Z"
+  "updatedAt": "2026-11-19T04:09:06Z"
 }
