@@ -195,15 +195,15 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:05 - 2nd",
+      "detail": "8:13 - 2nd",
       "period": 2,
-      "clock": "10:05",
+      "clock": "8:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 38,
+        "score": 42,
         "winner": false,
         "rec": "8-5"
       },
@@ -211,7 +211,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 37,
+        "score": 42,
         "winner": false,
         "rec": "12-4"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:35 - 2nd",
+      "detail": "8:11 - 2nd",
       "period": 2,
-      "clock": "9:35",
+      "clock": "8:11",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 32,
+        "score": 34,
         "winner": false,
         "rec": "13-3"
       },
@@ -238,12 +238,12 @@
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 32,
+        "score": 36,
         "winner": false,
         "rec": "1-13"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-21T03:45:27Z"
+  "updatedAt": "2026-11-21T03:49:28Z"
 }
