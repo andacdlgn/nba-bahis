@@ -193,19 +193,19 @@
     {
       "id": "401909312",
       "start": "2026-11-21T03:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "0.1 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "0.1",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
         "score": 133,
-        "winner": false,
-        "rec": "8-5"
+        "winner": true,
+        "rec": "9-5"
       },
       "away": {
         "abbr": "HOU",
@@ -213,7 +213,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
         "score": 124,
         "winner": false,
-        "rec": "12-4"
+        "rec": "12-5"
       },
       "seasonType": 2
     },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-21T05:38:06Z"
+  "updatedAt": "2026-11-21T05:42:07Z"
 }
