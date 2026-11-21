@@ -168,15 +168,15 @@
       "start": "2026-11-21T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1:57 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "1:57",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 47,
+        "score": 49,
         "winner": false,
         "rec": "3-13"
       },
@@ -195,10 +195,10 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "29.6 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "29.6",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
@@ -211,7 +211,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 29,
+        "score": 33,
         "winner": false,
         "rec": "12-4"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "23.8 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "23.8",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 27,
+        "score": 28,
         "winner": false,
         "rec": "13-3"
       },
@@ -238,12 +238,12 @@
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 26,
+        "score": 28,
         "winner": false,
         "rec": "1-13"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-21T03:37:24Z"
+  "updatedAt": "2026-11-21T03:41:25Z"
 }
