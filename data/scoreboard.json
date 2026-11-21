@@ -195,15 +195,15 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:33 - 4th",
+      "detail": "0.1 - 4th",
       "period": 4,
-      "clock": "1:33",
+      "clock": "0.1",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 126,
+        "score": 133,
         "winner": false,
         "rec": "8-5"
       },
@@ -211,7 +211,7 @@
         "abbr": "HOU",
         "name": "Rockets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-        "score": 119,
+        "score": 124,
         "winner": false,
         "rec": "12-4"
       },
@@ -245,5 +245,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-21T05:34:04Z"
+  "updatedAt": "2026-11-21T05:38:06Z"
 }
