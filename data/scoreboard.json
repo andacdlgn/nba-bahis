@@ -168,15 +168,15 @@
       "start": "2026-11-21T02:30Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "10:43 - 3rd",
+      "period": 3,
+      "clock": "10:43",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 49,
+        "score": 51,
         "winner": false,
         "rec": "3-13"
       },
@@ -184,7 +184,7 @@
         "abbr": "PHX",
         "name": "Suns",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-        "score": 61,
+        "score": 63,
         "winner": false,
         "rec": "7-7"
       },
@@ -195,15 +195,15 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:40 - 2nd",
+      "detail": "6:17 - 2nd",
       "period": 2,
-      "clock": "6:40",
+      "clock": "6:17",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 47,
+        "score": 50,
         "winner": false,
         "rec": "8-5"
       },
@@ -222,15 +222,15 @@
       "start": "2026-11-21T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:15 - 2nd",
+      "detail": "4:27 - 2nd",
       "period": 2,
-      "clock": "6:15",
+      "clock": "4:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 40,
+        "score": 45,
         "winner": false,
         "rec": "13-3"
       },
@@ -238,12 +238,12 @@
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 40,
+        "score": 43,
         "winner": false,
         "rec": "1-13"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-21T03:53:29Z"
+  "updatedAt": "2026-11-21T03:57:31Z"
 }
