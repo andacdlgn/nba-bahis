@@ -141,10 +141,10 @@
       "start": "2026-11-22T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4.6 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "4.6",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
@@ -164,5 +164,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T04:06:23Z"
+  "updatedAt": "2026-11-22T04:10:25Z"
 }
