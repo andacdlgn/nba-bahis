@@ -141,15 +141,15 @@
       "start": "2026-11-22T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "9:48 - 4th",
+      "period": 4,
+      "clock": "9:48",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 75,
+        "score": 76,
         "winner": false,
         "rec": "1-14"
       },
@@ -157,12 +157,12 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 67,
+        "score": 75,
         "winner": false,
         "rec": "11-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T04:58:38Z"
+  "updatedAt": "2026-11-22T05:02:40Z"
 }
