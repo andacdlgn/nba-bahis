@@ -6,15 +6,15 @@
       "start": "2026-11-22T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "10:14 - 4th",
+      "period": 4,
+      "clock": "10:14",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 74,
+        "score": 78,
         "winner": false,
         "rec": "10-6"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T22:21:36Z"
+  "updatedAt": "2026-11-22T22:25:37Z"
 }
