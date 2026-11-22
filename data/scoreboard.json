@@ -33,15 +33,15 @@
       "start": "2026-11-22T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:27 - 1st",
+      "detail": "9:44 - 1st",
       "period": 1,
-      "clock": "10:27",
+      "clock": "9:44",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 8,
+        "score": 11,
         "winner": false,
         "rec": "9-6"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T23:13:50Z"
+  "updatedAt": "2026-11-22T23:17:52Z"
 }
