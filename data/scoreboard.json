@@ -6,15 +6,15 @@
       "start": "2026-11-22T20:30Z",
       "state": "in",
       "completed": false,
-      "detail": "4:55 - 4th",
+      "detail": "3:02 - 4th",
       "period": 4,
-      "clock": "4:55",
+      "clock": "3:02",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "ATL",
         "name": "Hawks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-        "score": 92,
+        "score": 97,
         "winner": false,
         "rec": "10-6"
       },
@@ -22,7 +22,7 @@
         "abbr": "DET",
         "name": "Pistons",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-        "score": 85,
+        "score": 92,
         "winner": false,
         "rec": "10-5"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T22:41:42Z"
+  "updatedAt": "2026-11-22T22:45:44Z"
 }
