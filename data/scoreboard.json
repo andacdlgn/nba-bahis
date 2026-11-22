@@ -60,15 +60,15 @@
       "start": "2026-11-22T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:57 - 4th",
+      "detail": "8:27 - 4th",
       "period": 4,
-      "clock": "10:57",
+      "clock": "8:27",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 80,
+        "score": 82,
         "winner": false,
         "rec": "8-7"
       },
@@ -76,7 +76,7 @@
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 74,
+        "score": 79,
         "winner": false,
         "rec": "4-10"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-22T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:35 - 4th",
+      "detail": "4:15 - 4th",
       "period": 4,
-      "clock": "5:35",
+      "clock": "4:15",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIN",
         "name": "Timberwolves",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-        "score": 95,
+        "score": 97,
         "winner": false,
         "rec": "11-5"
       },
@@ -103,7 +103,7 @@
         "abbr": "MEM",
         "name": "Grizzlies",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-        "score": 80,
+        "score": 82,
         "winner": false,
         "rec": "12-4"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-22T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "End of 3rd",
-      "period": 3,
-      "clock": "0.0",
-      "typeName": "STATUS_END_PERIOD",
+      "detail": "9:30 - 4th",
+      "period": 4,
+      "clock": "9:30",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 89,
+        "score": 97,
         "winner": false,
         "rec": "13-3"
       },
@@ -130,7 +130,7 @@
         "abbr": "NO",
         "name": "Pelicans",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-        "score": 66,
+        "score": 70,
         "winner": false,
         "rec": "5-12"
       },
@@ -164,5 +164,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T02:57:57Z"
+  "updatedAt": "2026-11-22T03:01:59Z"
 }
