@@ -58,27 +58,27 @@
     {
       "id": "401910025",
       "start": "2026-11-22T01:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "54.6 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "54.6",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 107,
-        "winner": false,
-        "rec": "8-7"
+        "score": 110,
+        "winner": true,
+        "rec": "9-7"
       },
       "away": {
         "abbr": "LAC",
         "name": "Clippers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
-        "score": 95,
+        "score": 100,
         "winner": false,
-        "rec": "4-10"
+        "rec": "4-11"
       },
       "seasonType": 2
     },
@@ -141,15 +141,15 @@
       "start": "2026-11-22T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:00 - 1st",
+      "detail": "3:28 - 1st",
       "period": 1,
-      "clock": "5:00",
+      "clock": "3:28",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 11,
+        "score": 13,
         "winner": false,
         "rec": "1-14"
       },
@@ -157,12 +157,12 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 16,
+        "score": 18,
         "winner": false,
         "rec": "11-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T03:26:08Z"
+  "updatedAt": "2026-11-22T03:30:10Z"
 }

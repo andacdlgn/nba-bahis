@@ -126,14 +126,14 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png",
       "color": "#0064b1",
       "altColor": "#bbc4ca",
-      "wins": 8,
+      "wins": 9,
       "losses": 7,
-      "seed": 10,
-      "gb": "5",
-      "pct": 0.533,
-      "streak": "W1",
+      "seed": 9,
+      "gb": "4.5",
+      "pct": 0.562,
+      "streak": "W2",
       "last10": "5-5",
-      "home": "6-2",
+      "home": "7-2",
       "road": "2-5"
     },
     {
@@ -241,14 +241,14 @@
       "color": "#12173f",
       "altColor": "#c8102e",
       "wins": 4,
-      "losses": 10,
+      "losses": 11,
       "seed": 13,
-      "gb": "8.5",
-      "pct": 0.286,
-      "streak": "L2",
+      "gb": "9",
+      "pct": 0.267,
+      "streak": "L3",
       "last10": "3-7",
       "home": "4-4",
-      "road": "0-6"
+      "road": "0-7"
     },
     {
       "id": "13",
@@ -261,7 +261,7 @@
       "altColor": "#fdb927",
       "wins": 14,
       "losses": 3,
-      "seed": 1,
+      "seed": 2,
       "gb": "-",
       "pct": 0.824,
       "streak": "W1",
@@ -355,14 +355,14 @@
       "color": "#0a2240",
       "altColor": "#b4975a",
       "wins": 5,
-      "losses": 12,
+      "losses": 13,
       "seed": 12,
-      "gb": "9",
-      "pct": 0.294,
-      "streak": "L2",
-      "last10": "2-8",
+      "gb": "9.5",
+      "pct": 0.278,
+      "streak": "L3",
+      "last10": "1-9",
       "home": "4-7",
-      "road": "1-5"
+      "road": "1-6"
     },
     {
       "id": "18",
@@ -451,7 +451,7 @@
       "altColor": "#e56020",
       "wins": 8,
       "losses": 7,
-      "seed": 9,
+      "seed": 10,
       "gb": "5",
       "pct": 0.533,
       "streak": "W3",
@@ -487,14 +487,14 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
       "color": "#000000",
       "altColor": "#c4ced4",
-      "wins": 13,
+      "wins": 14,
       "losses": 3,
-      "seed": 2,
-      "gb": "0.5",
-      "pct": 0.812,
-      "streak": "W1",
+      "seed": 1,
+      "gb": "-",
+      "pct": 0.824,
+      "streak": "W2",
       "last10": "9-1",
-      "home": "6-3",
+      "home": "7-3",
       "road": "7-0"
     },
     {
@@ -574,5 +574,5 @@
       "road": "4-6"
     }
   ],
-  "updatedAt": "2026-11-22T03:18:05Z"
+  "updatedAt": "2026-11-22T03:30:10Z"
 }
