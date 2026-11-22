@@ -62,7 +62,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "12:00",
+      "clock": "0.0",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "DAL",
@@ -89,7 +89,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "12:00",
+      "clock": "0.0",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "MIN",
@@ -116,7 +116,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
@@ -141,15 +141,15 @@
       "start": "2026-11-22T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:27 - 2nd",
+      "detail": "7:33 - 2nd",
       "period": 2,
-      "clock": "8:27",
+      "clock": "7:33",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 30,
+        "score": 32,
         "winner": false,
         "rec": "1-14"
       },
@@ -157,12 +157,12 @@
         "abbr": "BOS",
         "name": "Celtics",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-        "score": 34,
+        "score": 37,
         "winner": false,
         "rec": "11-4"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-22T03:46:16Z"
+  "updatedAt": "2026-11-22T03:50:17Z"
 }
