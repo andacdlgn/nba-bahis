@@ -12,14 +12,14 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png",
       "color": "#c8102e",
       "altColor": "#fdb927",
-      "wins": 10,
+      "wins": 11,
       "losses": 6,
-      "seed": 4,
-      "gb": "3.5",
-      "pct": 0.625,
-      "streak": "W3",
-      "last10": "7-3",
-      "home": "4-3",
+      "seed": 3,
+      "gb": "3",
+      "pct": 0.647,
+      "streak": "W4",
+      "last10": "8-2",
+      "home": "5-3",
       "road": "6-3"
     },
     {
@@ -165,14 +165,14 @@
       "color": "#1d428a",
       "altColor": "#c8102e",
       "wins": 10,
-      "losses": 5,
-      "seed": 3,
-      "gb": "3",
-      "pct": 0.667,
-      "streak": "L1",
-      "last10": "6-4",
+      "losses": 6,
+      "seed": 5,
+      "gb": "3.5",
+      "pct": 0.625,
+      "streak": "L2",
+      "last10": "5-5",
       "home": "3-3",
-      "road": "7-2"
+      "road": "7-3"
     },
     {
       "id": "9",
@@ -375,7 +375,7 @@
       "altColor": "#f58426",
       "wins": 10,
       "losses": 6,
-      "seed": 5,
+      "seed": 4,
       "gb": "3.5",
       "pct": 0.625,
       "streak": "W4",
@@ -574,5 +574,5 @@
       "road": "4-6"
     }
   ],
-  "updatedAt": "2026-11-22T05:42:55Z"
+  "updatedAt": "2026-11-22T22:57:47Z"
 }
