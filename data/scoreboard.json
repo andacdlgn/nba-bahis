@@ -141,9 +141,9 @@
       "start": "2026-11-23T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:00 - 3rd",
+      "detail": "3:42 - 3rd",
       "period": 3,
-      "clock": "5:00",
+      "clock": "3:42",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
@@ -157,7 +157,7 @@
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 67,
+        "score": 69,
         "winner": false,
         "rec": "5-11"
       },
@@ -168,10 +168,10 @@
       "start": "2026-11-23T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "Halftime",
-      "period": 2,
-      "clock": "0.0",
-      "typeName": "STATUS_HALFTIME",
+      "detail": "11:57 - 3rd",
+      "period": 3,
+      "clock": "11:57",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-23T02:47:01Z"
+  "updatedAt": "2026-11-23T02:51:02Z"
 }
