@@ -33,15 +33,15 @@
       "start": "2026-11-22T23:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:15 - 4th",
+      "detail": "3:46 - 4th",
       "period": 4,
-      "clock": "6:15",
+      "clock": "3:46",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "MIA",
         "name": "Heat",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-        "score": 111,
+        "score": 119,
         "winner": false,
         "rec": "9-6"
       },
@@ -49,7 +49,7 @@
         "abbr": "OKC",
         "name": "Thunder",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-        "score": 94,
+        "score": 104,
         "winner": false,
         "rec": "10-6"
       },
@@ -139,17 +139,17 @@
     {
       "id": "401910034",
       "start": "2026-11-23T01:00Z",
-      "state": "pre",
+      "state": "in",
       "completed": false,
-      "detail": "11/22 - 8:00 PM EST",
-      "period": 0,
-      "clock": "0.0",
-      "typeName": "STATUS_SCHEDULED",
+      "detail": "9:35 - 1st",
+      "period": 1,
+      "clock": "9:35",
+      "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 0,
+        "score": 5,
         "winner": false,
         "rec": "10-6"
       },
@@ -157,7 +157,7 @@
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 0,
+        "score": 2,
         "winner": false,
         "rec": "5-11"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-23T01:10:29Z"
+  "updatedAt": "2026-11-23T01:14:31Z"
 }
