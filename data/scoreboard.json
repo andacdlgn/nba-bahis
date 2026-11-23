@@ -60,15 +60,15 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "10:21 - 1st",
+      "detail": "9:13 - 1st",
       "period": 1,
-      "clock": "10:21",
+      "clock": "9:13",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 9,
+        "score": 11,
         "winner": false,
         "rec": "6-11"
       },
@@ -76,7 +76,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 0,
+        "score": 2,
         "winner": false,
         "rec": "7-8"
       },
@@ -87,15 +87,15 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:43 - 1st",
+      "detail": "5:37 - 1st",
       "period": 1,
-      "clock": "9:43",
+      "clock": "5:37",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 9,
+        "score": 21,
         "winner": false,
         "rec": "4-11"
       },
@@ -103,7 +103,7 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 10,
+        "score": 19,
         "winner": false,
         "rec": "9-5"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "9:14 - 1st",
+      "detail": "7:24 - 1st",
       "period": 1,
-      "clock": "9:14",
+      "clock": "7:24",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 4,
+        "score": 9,
         "winner": false,
         "rec": "3-14"
       },
@@ -130,7 +130,7 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 6,
+        "score": 8,
         "winner": false,
         "rec": "9-7"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-23T00:14:09Z"
+  "updatedAt": "2026-11-23T00:18:10Z"
 }
