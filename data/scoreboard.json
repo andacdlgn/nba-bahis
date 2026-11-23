@@ -87,15 +87,15 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "19.2 - OT",
+      "detail": "14.6 - OT",
       "period": 5,
-      "clock": "19.2",
+      "clock": "14.6",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHI",
         "name": "Bulls",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-        "score": 141,
+        "score": 142,
         "winner": false,
         "rec": "4-11"
       },
@@ -103,7 +103,7 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 147,
+        "score": 149,
         "winner": false,
         "rec": "9-5"
       },
@@ -141,9 +141,9 @@
       "start": "2026-11-23T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "8:07 - 3rd",
+      "detail": "6:51 - 3rd",
       "period": 3,
-      "clock": "8:07",
+      "clock": "6:51",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "NY",
@@ -157,7 +157,7 @@
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 55,
+        "score": 61,
         "winner": false,
         "rec": "5-11"
       },
@@ -168,10 +168,10 @@
       "start": "2026-11-23T01:30Z",
       "state": "in",
       "completed": false,
-      "detail": "1.8 - 2nd",
+      "detail": "Halftime",
       "period": 2,
-      "clock": "1.8",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_HALFTIME",
       "home": {
         "abbr": "GS",
         "name": "Warriors",
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-23T02:34:57Z"
+  "updatedAt": "2026-11-23T02:38:58Z"
 }
