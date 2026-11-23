@@ -60,15 +60,15 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "6:57 - 3rd",
+      "detail": "4:45 - 3rd",
       "period": 3,
-      "clock": "6:57",
+      "clock": "4:45",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "WSH",
         "name": "Wizards",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-        "score": 76,
+        "score": 85,
         "winner": false,
         "rec": "6-11"
       },
@@ -76,7 +76,7 @@
         "abbr": "ORL",
         "name": "Magic",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-        "score": 60,
+        "score": 69,
         "winner": false,
         "rec": "7-8"
       },
@@ -87,9 +87,9 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:16 - 3rd",
+      "detail": "2:36 - 3rd",
       "period": 3,
-      "clock": "4:16",
+      "clock": "2:36",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "CHI",
@@ -103,7 +103,7 @@
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 91,
+        "score": 100,
         "winner": false,
         "rec": "9-5"
       },
@@ -114,15 +114,15 @@
       "start": "2026-11-23T00:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:14 - 3rd",
+      "detail": "3:52 - 3rd",
       "period": 3,
-      "clock": "5:14",
+      "clock": "3:52",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 62,
+        "score": 64,
         "winner": false,
         "rec": "3-14"
       },
@@ -141,15 +141,15 @@
       "start": "2026-11-23T01:00Z",
       "state": "in",
       "completed": false,
-      "detail": "1:03 - 1st",
+      "detail": "End of 1st",
       "period": 1,
-      "clock": "1:03",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.1",
+      "typeName": "STATUS_END_PERIOD",
       "home": {
         "abbr": "NY",
         "name": "Knicks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-        "score": 21,
+        "score": 26,
         "winner": false,
         "rec": "10-6"
       },
@@ -157,7 +157,7 @@
         "abbr": "IND",
         "name": "Pacers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-        "score": 23,
+        "score": 26,
         "winner": false,
         "rec": "5-11"
       },
@@ -191,5 +191,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-23T01:34:37Z"
+  "updatedAt": "2026-11-23T01:38:39Z"
 }
