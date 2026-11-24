@@ -220,57 +220,57 @@
     {
       "id": "401910044",
       "start": "2026-11-24T03:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "3:05 - 3rd",
-      "period": 3,
-      "clock": "3:05",
-      "typeName": "STATUS_IN_PROGRESS",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAL",
         "name": "Lakers",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-        "score": 71,
-        "winner": false,
-        "rec": "14-3"
+        "score": 109,
+        "winner": true,
+        "rec": "15-3"
       },
       "away": {
         "abbr": "UTAH",
         "name": "Jazz",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-        "score": 70,
+        "score": 94,
         "winner": false,
-        "rec": "3-15"
+        "rec": "3-16"
       },
       "seasonType": 2
     },
     {
       "id": "401910045",
       "start": "2026-11-24T03:00Z",
-      "state": "in",
-      "completed": false,
-      "detail": "52.6 - 3rd",
-      "period": 3,
-      "clock": "52.6",
-      "typeName": "STATUS_IN_PROGRESS",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
+      "period": 4,
+      "clock": "12:00",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SAC",
         "name": "Kings",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-        "score": 74,
+        "score": 107,
         "winner": false,
-        "rec": "2-14"
+        "rec": "2-15"
       },
       "away": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 89,
-        "winner": false,
-        "rec": "14-3"
+        "score": 123,
+        "winner": true,
+        "rec": "15-3"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-24T04:50:11Z"
+  "updatedAt": "2026-11-24T06:30:54Z"
 }
