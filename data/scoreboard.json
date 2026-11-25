@@ -60,9 +60,9 @@
       "start": "2026-11-25T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:29 - 4th",
+      "detail": "5:18 - 4th",
       "period": 4,
-      "clock": "5:29",
+      "clock": "5:18",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
@@ -83,5 +83,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-25T05:12:14Z"
+  "updatedAt": "2026-11-25T05:16:15Z"
 }
