@@ -60,15 +60,15 @@
       "start": "2026-11-25T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "4:25 - 4th",
+      "detail": "3:10 - 4th",
       "period": 4,
-      "clock": "4:25",
+      "clock": "3:10",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
         "name": "Nuggets",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-        "score": 88,
+        "score": 93,
         "winner": false,
         "rec": "10-5"
       },
@@ -76,12 +76,12 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 106,
+        "score": 112,
         "winner": false,
         "rec": "10-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-25T05:20:17Z"
+  "updatedAt": "2026-11-25T05:24:18Z"
 }
