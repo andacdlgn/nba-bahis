@@ -60,9 +60,9 @@
       "start": "2026-11-25T03:00Z",
       "state": "in",
       "completed": false,
-      "detail": "5:18 - 4th",
+      "detail": "4:25 - 4th",
       "period": 4,
-      "clock": "5:18",
+      "clock": "4:25",
       "typeName": "STATUS_IN_PROGRESS",
       "home": {
         "abbr": "DEN",
@@ -76,12 +76,12 @@
         "abbr": "DAL",
         "name": "Mavericks",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-        "score": 102,
+        "score": 106,
         "winner": false,
         "rec": "10-7"
       },
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-25T05:16:15Z"
+  "updatedAt": "2026-11-25T05:20:17Z"
 }
