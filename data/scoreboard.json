@@ -193,19 +193,19 @@
     {
       "id": "401909333",
       "start": "2026-11-28T02:30Z",
-      "state": "in",
-      "completed": false,
-      "detail": "1.5 - 4th",
+      "state": "post",
+      "completed": true,
+      "detail": "Final",
       "period": 4,
-      "clock": "1.5",
-      "typeName": "STATUS_IN_PROGRESS",
+      "clock": "0.0",
+      "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
         "name": "Spurs",
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-        "score": 98,
-        "winner": false,
-        "rec": "15-4"
+        "score": 99,
+        "winner": true,
+        "rec": "16-4"
       },
       "away": {
         "abbr": "LAL",
@@ -213,7 +213,7 @@
         "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
         "score": 96,
         "winner": false,
-        "rec": "15-3"
+        "rec": "15-4"
       },
       "seasonType": 2
     },
@@ -251,7 +251,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "LAC",
@@ -299,5 +299,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-28T05:11:44Z"
+  "updatedAt": "2026-11-28T05:15:46Z"
 }
