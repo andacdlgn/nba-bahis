@@ -197,7 +197,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "SA",
@@ -224,7 +224,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "UTAH",
@@ -278,7 +278,7 @@
       "completed": true,
       "detail": "Final",
       "period": 4,
-      "clock": "0.0",
+      "clock": "12:00",
       "typeName": "STATUS_FINAL",
       "home": {
         "abbr": "POR",
@@ -299,5 +299,5 @@
       "seasonType": 2
     }
   ],
-  "updatedAt": "2026-11-28T05:15:46Z"
+  "updatedAt": "2026-11-28T07:51:51Z"
 }
